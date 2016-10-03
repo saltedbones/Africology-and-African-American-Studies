@@ -1,0 +1,12 @@
+---
+# Site settings
+title: Hello World
+college: College of Liberal Arts
+tagline: This is our life's work
+keywords: highered, college, university, philadelphia, Temple
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://temple.edu" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+theme: tutheme
