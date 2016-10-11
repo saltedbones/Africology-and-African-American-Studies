@@ -1,16 +1,18 @@
 GIT
   remote: https://github.com/tu-chill/tutheme.git
-  revision: f7c79fc8c17734995a54bd7cee734b24699f549d
+  revision: 30ba0b12a89216fb0ad7a4a0631e531d1d22c36c
   specs:
-    tutheme (0.1.3)
+    tutheme (0.1.4)
 
 GEM
   remote: https://rubygems.org/
   specs:
+    addressable (2.4.0)
     colorator (1.1.0)
     ffi (1.9.14)
     forwardable-extended (2.6.0)
-    jekyll (3.2.1)
+    jekyll (3.3.0)
+      addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -43,5 +45,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (= 3.2.1)
+  jekyll (~> 3.3)
   tutheme!
