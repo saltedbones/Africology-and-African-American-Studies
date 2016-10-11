@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/tu-chill/tutheme.git
-  revision: 2b58aed520a268816b74240ba0dd6017e1efbf66
+  revision: f7c79fc8c17734995a54bd7cee734b24699f549d
   specs:
     tutheme (0.1.3)
 
