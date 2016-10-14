@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/tu-chill/tutheme.git
-  revision: 077ad3f8b4b0e065fec88350e4cf525ba5581659
+  revision: 34d37cd80bcc7eaf3d49c0ca67ef87234fb94e82
   specs:
-    tutheme (0.1.7)
+    tutheme (0.1.9)
 
 GEM
   remote: https://rubygems.org/
