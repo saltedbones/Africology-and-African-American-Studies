@@ -1,4 +1,6 @@
-- text: Undergratuate
+- text: About
+  url: /about
+- text: Undergraduate
   url: /undergraduate
 - text: Graduate
   url: /graduate
@@ -6,5 +8,5 @@
   url: /faculty
 - text: Research
   url: /research
-- text: Resourcess
+- text: Resources
   url : /resources
