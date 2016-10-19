@@ -12,7 +12,10 @@ ruby RUBY_VERSION
 gem "jekyll", "~> 3.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "tutheme", :git => 'https://github.com/tu-chill/tutheme.git'
+gem "minima"
+
+# This is the Temple University Jekyll theme.
+gem "tutheme", :git => 'https://github.com/TULiberalArts/TUTheme.git'
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.

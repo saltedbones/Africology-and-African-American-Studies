@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/tu-chill/tutheme.git
+  remote: https://github.com/TULiberalArts/TUTheme.git
   revision: 34d37cd80bcc7eaf3d49c0ca67ef87234fb94e82
   specs:
     tutheme (0.1.9)
@@ -32,6 +32,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
     mercenary (0.3.6)
+    minima (1.2.0)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
     rb-fsevent (0.9.7)
@@ -46,4 +47,5 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.3)
+  minima
   tutheme!
