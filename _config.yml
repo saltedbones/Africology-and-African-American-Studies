@@ -96,8 +96,10 @@ prose:
         field:
           element: text
       - name: layout
-        options:
-          - name: page
-            value: page
-          - name: faculty
-            value: faculty
+        field:
+          element: select
+          options:
+            - name: page
+              value: page
+            - name: faculty
+              value: faculty
