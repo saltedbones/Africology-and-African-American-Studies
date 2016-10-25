@@ -77,7 +77,7 @@ permalink: /:title
 
 # Prose
 prose:
-  rooturl: pages
+  # rooturl: pages
   media: media
   metadata:
     pages:
