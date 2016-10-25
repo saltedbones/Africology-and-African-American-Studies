@@ -91,13 +91,17 @@ prose:
       - name: title
         field:
           element: text
-          label: title
+          label: Title
       - name: permalink
         field:
           element: text
+          label: Permalink
+          help: Relative URL to page, must start with '/'
       - name: layout
         field:
           element: select
+          label: Page layout
+          help: 'page' is the default setting
           options:
             - name: page
               value: page
