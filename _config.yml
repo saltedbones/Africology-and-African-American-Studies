@@ -4,7 +4,7 @@ title: Nuclear Energy
 # Site URL (without /)
 url: https://liberalarts.temple.edu
 # Subdirectory (with / at only at beginning)
-baseurl: '/nuclearenergy'
+baseurl: /nuclearenergy
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -69,9 +69,28 @@ collections:
   # faculty:
   #   title: Faculty
   #   output: true
-  posts:
-    title: Posts
+  pages:
+    title: Pages
     output: true
-  uploads:
-    title: Uploads
-    output: true
+    layout: page
+permalink: /:title
+
+# Prose
+prose:
+  rooturl: pages/
+  media: media/
+  metadata:
+    pages:
+      - name: title
+        field:
+          element: text
+          label: title
+      - name: permalink
+        field:
+          element: text
+      - name: layout
+        options:
+          - name: page
+            value: page
+          - name: faculty
+            value: faculty

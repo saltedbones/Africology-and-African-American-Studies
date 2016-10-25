@@ -1,8 +1,6 @@
 ---
-program: program
 title: Next Stops
 permalink: "/next-stops"
-navigation_weight: 6
 layout: page
 ---
 

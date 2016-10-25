@@ -1,8 +1,6 @@
 ---
-program: program
 title: Undergraduate
 permalink: "/undergraduate"
-navigation_weight: 1
 layout: page
 ---
 
