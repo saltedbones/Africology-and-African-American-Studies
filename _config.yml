@@ -77,8 +77,15 @@ permalink: /:title
 
 # Prose
 prose:
-  # rooturl: pages
+  rooturl: pages
   media: media
+  ignore:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - index.html
+  - _config.yml
   metadata:
     pages:
       - name: title
