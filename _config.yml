@@ -75,3 +75,33 @@ collections:
     layout: page
 permalink: /:title
 
+# Prose
+prose:
+  rooturl: "pages"
+  media: "media"
+  ignore:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - index.html
+  - _config.yml
+  metadata:
+    pages:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+      - name: "layout"
+        field:
+          element: "select
+          label: "Page layout"
+          options:
+            - name: "page"
+              value: "page"
+            - name: "faculty"
+              value:"faculty"
