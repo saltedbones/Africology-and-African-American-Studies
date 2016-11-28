@@ -14,5 +14,9 @@ script:
 - bundle exec jekyll build
 - timeout 120s bundle exec htmlproofer ./_site --check-html --check-favicon --allow-hash-href --external_only --only-4xx --http-status-ignore 429
 deploy:
-  provider: azure_web_apps
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+  bucket: tucla-afrocology-and-african-american-studies
   skip_cleanup: true
+  local_dir: _site
