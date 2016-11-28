@@ -1,10 +1,10 @@
 ---
 # Program/Department Title
-title: Nuclear Energy
+title: Afrocology and African American Studies
 # Site URL (without /)
-url: https://liberalarts.temple.edu
+url: ""
 # Subdirectory (with / at only at beginning)
-baseurl: /nuclearenergy
+baseurl: /afrocology-and-african-american-studies
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -24,7 +24,7 @@ address:
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
-social: 
+social:
   # Facebook - https://facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
@@ -33,19 +33,19 @@ social:
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
   # Snapchat - USERNAME
-  snapchat: 
+  snapchat:
   # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
-  github: 
+  github:
   # DeviantArt - http://USERNAME.deviantart.com/
-  deviantart: 
+  deviantart:
   # Vimeo - https://vimeo.com/USERNAME
-  vimeo: 
+  vimeo:
   # YouTube - Paste the FULL URL below
-  youtube: 
+  youtube:
   # LinkedIn - Paste the FULL URL below
-  linkedin: 
+  linkedin:
   # Slack - Paste the FULL URL below
-  slack: 
+  slack:
 
 # University & College Information
 university: Temple University
