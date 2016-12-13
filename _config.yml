@@ -20,17 +20,17 @@ address:
   room: 8th Floor, Room 810
   street: 1115 Polett Walk
   city: Phialdelphia, PA 19122
-  email: liberal-arts-africology-african-american-studies
+  email: liberal-arts-africology-african-american-studies@temple.edu
   phone: 2152048491
 
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://facebook.com/USERNAME
+  # Facebook - http://www.facebook.com/AFAMatTU
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/USERNAME
+  # Twitter - http://twitter.com/AFAMatTU
   twitter: TULiberalArts
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
