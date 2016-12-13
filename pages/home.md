@@ -11,7 +11,7 @@ Thus, while we emphasize and encourage the Afrocentric study of phenomena we are
 
 ## Academic Offerings
 
-• BA in Africology and African American Studies
-• Minor in Africology and African American Studies
-• MA in Africology and African American Studies
-• PhD in Africology and African American Studies
+• [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
+• [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
+• [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/#text)
+• [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
