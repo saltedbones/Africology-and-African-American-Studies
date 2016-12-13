@@ -1,9 +1,25 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate/"
+permalink: /undergraduate/
 layout: page
+published: true
 ---
 
-The world is increasingly globalized, with goods, services, people, and ideas traveling across borders more often, and more quickly, than ever before. Temple University and its College of Liberal Arts are also globalizing, offering students a wide array of majors in the social sciences, humanities, and area studies programs in Asian and Latin American studies.
+## First In Our Field
 
-The Global Studies Program is the latest step in the globalization of the College of Liberal Arts.  Starting in the Fall of 2015, Temple undergraduates can declare a major in Global Studies – an interdisciplinary program bringing together coursework from across a dozen departments, focused on the study of Global Security, Global Economy, and Global Cultures, and complemented by intensive language instruction and study abroad options.
+Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field.
+
+## National And International
+
+We constantly seek to expand links with the local, national and international African community. We always encourage our students to take advantage of opportunities to do service learning, internships and study abroad — including a summer program in Ghana.
+
+## Meet a Mentor
+
+We place great emphasis on enhanced mentoring and advising in the interest of a cooperative pedagogy. Our department fosters academic excellence, student achievement, social responsibility, character maturity and political engagement as expressions of the best African academic traditions.
+
+## Academic offerings
+
+ - BA in Africology and African American Studies
+ - Minor in Africology and African American Studies
+ - MA in Africology and African American Studies
+ - PhD in Africology and African American Studies
