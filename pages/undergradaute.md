@@ -19,7 +19,5 @@ We place great emphasis on enhanced mentoring and advising in the interest of a 
 
 ## Academic offerings
 
- - BA in Africology and African American Studies
- - Minor in Africology and African American Studies
- - MA in Africology and African American Studies
- - PhD in Africology and African American Studies
+ - [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
+ - [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
