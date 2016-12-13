@@ -1,21 +1,19 @@
 ---
 title: Next Stops
-permalink: "/next-stops/"
+permalink: /next-stops/
 layout: page
+published: true
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+We provide the foundation and tools that students need to succeed in a cross-cultural, interdependent world. Faculty and students engage in critical discourse about issues of race, ethnicity, gender, sexuality, class and culture across time and geographical space.
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Our alumni have gone on to forge successful careers in the following fields:
 
-## Recently, our alumni have secured coveted positions with the following employers:
-
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+• Law
+• Education
+• History
+• Civil service
+• Intercultural and international organizations
+• Politics
+• Social work
+• Media
