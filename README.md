@@ -24,7 +24,7 @@ If you discover typographic errors, bugs, or have problems navigating this site 
 [travis]: https://travis-ci.org/TULiberalArts/Africology-and-African-American-Studies
 [travis-img]: https://travis-ci.org/TULiberalArts/Africology-and-African-American-Studies.svg?branch=master
 [jekyll]: https://https://jekyllrb.com
-[issue]: https://github.com/TULiberalArts/Global-Studies/issues
+[issue]: https://github.com/TULiberalArts/Africology-and-African-American-Studies/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
-[prose]: https://prose.io/#TULiberalArts/Global-Studies
+[prose]: https://prose.io/#TULiberalArts/Africology-and-African-American-Studies
 [md]: http://whatismarkdown.com/
