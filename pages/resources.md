@@ -12,9 +12,8 @@ Dr. Molefi Kete Asante<br/>
 [(215) 204-4322](tel:2152044322)<br/>
 [masante@temple.edu](mailto:masante@temple.edu)<br/>
 
-**Director:**
+**Undergraduate Chair:** 
 
-Undergraduate Chair:<br/>
 Dr. Nilgun Anadolu-Okur<br/>
 826 Gladfelter Hall<br/>
 [(215) 204-8513](tel:2152048513)<br/>
