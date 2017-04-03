@@ -42,4 +42,4 @@ Tammey Abner<br/>
 
 ## Resources are here to help!
 
-[Study Abroad In Ghana](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html)
+- [Study Abroad In Ghana](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html)
