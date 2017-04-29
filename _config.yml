@@ -132,3 +132,4 @@ exclude:
   - vendor
   - _site
   - node_modules
+  - docker-compose.yml
