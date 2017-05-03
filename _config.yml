@@ -8,7 +8,7 @@ baseurl: /africology-and-african-american-studies
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'The Department of Africology and African American Studies presents students with an ongoing synthesis of the best research and scholarship on historical, cultural, scientific and economic issues confronting African and African American people.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 8th Floor, Room 810
   street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email: liberal-arts-africology-african-american-studies@temple.edu
-  phone: 2152048491
+  email: <a href="mailto:liberal-arts-africology-african-american-studies@temple.edu">liberal-arts-africology-african-american-studies@temple.edu</a>
+  phone: 215-204-8491
 
 # Social Media
 # Put in only the username unless otherwise noted
