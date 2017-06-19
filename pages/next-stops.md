@@ -19,7 +19,7 @@ Our alumni have gone on to forge successful careers in the following fields:
 - Social work<br/>
 - Media<br/>
 
-- [Study Abroad In Ghana](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html)
+[Study Abroad In Ghana](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html)
 
 ## Make Your Declaration
 ​
