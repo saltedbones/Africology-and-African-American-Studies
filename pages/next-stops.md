@@ -10,14 +10,16 @@ We provide the foundation and tools that students need to succeed in a cross-cul
 
 Our alumni have gone on to forge successful careers in the following fields:
 
-• Law
-• Education
-• History
-• Civil service
-• Intercultural and international organizations
-• Politics
-• Social work
-• Media
+- Law<br/>
+- Education<br/>
+- History<br/>
+- Civil service<br/>
+- Intercultural and international organizations<br/>
+- Politics<br/>
+- Social work<br/>
+- Media<br/>
+
+- [Study Abroad In Ghana](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html)
 
 ## Make Your Declaration
 ​
