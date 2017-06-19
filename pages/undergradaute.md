@@ -4,6 +4,41 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Dr. Molefi Kete Asante<br/>
+  615A Gladfelter Hall<br/>
+  [(215) 204-4322](tel:2152044322)<br/>
+  [masante@temple.edu](mailto:masante@temple.edu)<br/>
+
+  <hr>
+
+  **Undergraduate Chair:** <br/>
+  Dr. Nilgun Anadolu-Okur<br/>
+  826 Gladfelter Hall<br/>
+  [(215) 204-8513](tel:2152048513)<br/>
+  [anadolu@temple.edu](mailto:anadolu@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Belinda Wilson<br/>
+  821 Ritter Annex<br/>
+  [(215) 204-0472](tel:2152040472)<br/>
+  [bwilson@temple.edu](mailto:bwilson@temple.edu)<br/>
+
+  <hr>
+
+  **Coordinator:** <br/>
+  Tammey Abner<br/>
+  808 Gladfelter Hall<br/>
+  [(215) 204-8491](tel:2152048491)<br/>
+  [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)<br/>
 ---
 
 ## First In Our Field
