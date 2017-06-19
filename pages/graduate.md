@@ -4,6 +4,41 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: > #
+  ### Contact Us
+
+  <hr>
+
+  **Chair:** <br/>
+  Dr. Molefi Kete Asante<br/>
+  615A Gladfelter Hall<br/>
+  [(215) 204-4322](tel:2152044322)<br/>
+  [masante@temple.edu](mailto:masante@temple.edu)<br/>
+
+  <hr>
+
+  **Graduate Chair:** <br/>
+  Dr. Ama Mazama<br/>
+  817 Gladfelter Hall<br/>
+  [(215) 204-1992](tel:215204-992)<br/>
+  [marie-josee.cerol@temple.edu](mailto:marie-josee.cerol@temple.edu)<br/>
+
+  <hr>
+
+  **Administrator:** <br/>
+  Belinda Wilson<br/>
+  821 Ritter Annex<br/>
+  [(215) 204-0472](tel:2152040472)<br/>
+  [bwilson@temple.edu](mailto:bwilson@temple.edu)<br/>
+
+  <hr>
+
+  **Coordinator:** <br/>
+  Tammey Abner<br/>
+  808 Gladfelter Hall<br/>
+  [(215) 204-8491](tel:2152048491)<br/>
+  [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)<br/>
 ---
 
 ## Program Overview
