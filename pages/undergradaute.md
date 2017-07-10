@@ -6,39 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Dr. Molefi Kete Asante  
+   615A Gladfelter Hall  
+   [(215) 204-4322](tel:2152044322)  
+   [masante@temple.edu](mailto:masante@temple.edu)  
+   
+   ___
+   
+   **Undergraduate Chair:**  
+   Dr. Nilgun Anadolu-Okur  
+   826 Gladfelter Hall  
+   [(215) 204-8513](tel:2152048513)  
+   [anadolu@temple.edu](mailto:anadolu@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Belinda Wilson  
+   821 Ritter Annex   
+   [(215) 204-0472](tel:2152040472)  
+   [bwilson@temple.edu](mailto:bwilson@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Dr. Molefi Kete Asante<br/>
-  615A Gladfelter Hall<br/>
-  [(215) 204-4322](tel:2152044322)<br/>
-  [masante@temple.edu](mailto:masante@temple.edu)<br/>
-
-  <hr>
-
-  **Undergraduate Chair:** <br/>
-  Dr. Nilgun Anadolu-Okur<br/>
-  826 Gladfelter Hall<br/>
-  [(215) 204-8513](tel:2152048513)<br/>
-  [anadolu@temple.edu](mailto:anadolu@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Belinda Wilson<br/>
-  821 Ritter Annex<br/>
-  [(215) 204-0472](tel:2152040472)<br/>
-  [bwilson@temple.edu](mailto:bwilson@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Tammey Abner<br/>
-  808 Gladfelter Hall<br/>
-  [(215) 204-8491](tel:2152048491)<br/>
-  [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)<br/>
+   **Coordinator:**  
+   Tammey Abner  
+   808 Gladfelter Hall    
+   [(215) 204-8491](tel:2152048491)   
+   [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)  
 ---
 
 ## First In Our Field
