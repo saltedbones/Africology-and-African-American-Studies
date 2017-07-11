@@ -4,6 +4,10 @@
 
 Africology and African American Studies is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
+| Links |  |
+| --- | --- |
+| Development | https://develop.cla.temple.edu/africology-and-african-american-studies/ |
+
 ## Content Structure
 
 | Directory |  |

@@ -1,4 +1,6 @@
 source "https://rubygems.org"
+
+# Assumuing Ruby 2.3+
 ruby RUBY_VERSION
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -8,22 +10,24 @@ ruby RUBY_VERSION
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
+# Must at least Jekyll 3.3 for theme support
 # Happy Jekylling!
-gem "jekyll", "~> 3"
+gem "jekyll", "~> 3.4.3"
 
 # This is the default theme for new Jekyll sites.
 gem "minima"
 
 # This is the Temple University Jekyll theme. It is not available for public use.
-gem "tutheme", :git => 'https://github.com/TULiberalArts/TUTheme.git'
+gem "tutheme", :git => "https://github.com/TULiberalArts/TUTheme.git", :branch => "master"
 
 # For serving the built site
 gem "html-proofer"
 gem "s3_website"
+gem "yaml_command"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+# gem "github-pages", "109", group: :jekyll_plugins
 
 # If you have any plugins, put them here!
 # group :jekyll_plugins do
