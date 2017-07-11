@@ -7,8 +7,4 @@ vendor/
 *.patch
 _data/events.csv
 _data/profiles.csv
-<<<<<<< HEAD
 _data/news.csv
-=======
-_data/news.csv
->>>>>>> e9275e1d08a51ef97699475177d742a2a06b4cde
