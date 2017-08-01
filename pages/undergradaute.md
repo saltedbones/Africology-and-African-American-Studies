@@ -49,7 +49,7 @@ We constantly seek to expand links with the local, national and international Af
 
 We place great emphasis on enhanced mentoring and advising in the interest of a cooperative pedagogy. Our department fosters academic excellence, student achievement, social responsibility, character maturity and political engagement as expressions of the best African academic traditions.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic offerings
 
