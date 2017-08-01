@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Dr. Molefi Kete Asante  
    615A Gladfelter Hall  
@@ -34,7 +34,7 @@ sidebar-content: > #
    Tammey Abner  
    808 Gladfelter Hall    
    [(215) 204-8491](tel:2152048491)   
-   [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)  
+   [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
 ---
 
 ## First In Our Field
@@ -48,6 +48,8 @@ We constantly seek to expand links with the local, national and international Af
 ## Meet a Mentor
 
 We place great emphasis on enhanced mentoring and advising in the interest of a cooperative pedagogy. Our department fosters academic excellence, student achievement, social responsibility, character maturity and political engagement as expressions of the best African academic traditions.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](admissions.temple.edu/apply).
 
 ## Academic offerings
 
