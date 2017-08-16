@@ -2,7 +2,7 @@
 title: Home
 meta-description: 100 or so words
 meta-keywords: 3 or 4 unique for this page
-permalink: /
+permalink: ""
 layout: home
 feature: false
 feature-title: 
