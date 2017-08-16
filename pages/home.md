@@ -17,7 +17,33 @@ Thus, while we emphasize and encourage the Afrocentric study of phenomena we are
 
 ## Academic Offerings
 
-• [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
-• [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
-• [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/#text)
-• [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+- [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
+- [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
+- [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/#text)
+- [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+
+<div class="row row-wide">
+  <div class="col m12 l4">{% include cards/card2-image.html 
+    title=" " 
+    content=" " 
+    image="" 
+    button-link=" " 
+    button-text="Learn More" %}
+  </div>
+  <div class="row row-wide">
+    <div class="col m12 l4">{% include cards/card2-image.html 
+      title=" " 
+      content=" " 
+      image="" 
+      button-link=" " 
+      button-text="Learn More" %}
+    </div>
+    <div class="row row-wide">
+      <div class="col m12 l4">{% include cards/card2-image.html 
+        title=" " 
+        content=" " 
+        image="" 
+        button-link=" " 
+        button-text="Learn More" %}
+      </div>
+</div>
