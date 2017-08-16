@@ -1,6 +1,6 @@
 ---
 title: Faculty
-permalink: "/faculty/"
+permalink: /faculty/
 layout: faculty
 published: true
 ---
