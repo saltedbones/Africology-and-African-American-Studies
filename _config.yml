@@ -115,7 +115,7 @@ prose:
               value: page
             - name: faculty
               value: faculty
-            - name: faculty
+            - name: faculty2
               value: faculty2
             - name: home
               value: home
