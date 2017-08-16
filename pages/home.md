@@ -5,9 +5,9 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
 feature: false
-feature-title: 
-feature-body: 
-feature-image: 
+feature-title: null
+feature-body: null
+feature-image: null
 published: true
 ---
 
