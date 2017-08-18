@@ -28,7 +28,7 @@ Named in the honor of a former graduate student this award is made to the Master
 
 This award is given to the undergraduate or graduate student in African American Studies who best represents the department’s commitment to community and public action. Based on the idea that education is a core value this award notes the student who seeks to work in the urban community in order to assist children in low-income areas to achieve their highest goals.
 
-## James L. Conyers Award
+**James L. Conyers Award**
 
 This award is given to three students whose academic papers have been accepted for presentation at national or international conferences in the discipline.
 
