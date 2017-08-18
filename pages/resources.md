@@ -6,6 +6,31 @@ layout: page
 published: false
 ---
 
+## Undergraduate Resources
+
+The Charles Blockson Afro American Collection located on the first floor of the Sullivan Building is the fourth largest non-circulating collection of books and memorabilia about the African world. It contains important collections of correspondence, papers, letters, periodicals, offprints, and very valuable and historical manuscripts and books.
+
+### General resources:
+
+- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp) 
+- [Graduation Application process](http://www.temple.edu/registrar/students/graduation) 
+- [Financing your Education](http://sfs.temple.edu/) 
+- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
+
+## Graduate Resources
+
+### Department Resources
+
+The Charles Blockson Afro American Collection located in Sullivan Hall on Temple’s main campus is one of the great resources in the United States. Mr. Blockson began his collection as a teenager and after many years had built his collection into the fourth or fifth largest such collection in the nation. Many of our students regularly use the Blockson facility for their research.
+
+The department is the home to the Journal of Black Studies, the most prestigious journal in the discipline of African American Studies. Students have the opportunity to work with the journal. Two of Temple’s faculty members in African American Studies edited the Encyclopedia of Black Studies and much of the discourse about the nature of the field remains a hefty debate in seminars in the department.
+
+**General Resources**
+
+- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
+- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
+
 ## Awards and Scholarships
 
 The department offers three internal awards for graduating seniors—two privately-sponsored awards for outstanding academic performance and one departmental award for outstanding service. The Department of African American Studies supervises the Temple in Ghana program, which allows students to study for six weeks during the summer at the University of Ghana in Accra. Academic awards are given annually at the Department’s celebration held the week before Commencement. All African and African American Studies students are eligible for the awards for academic excellence below. Students receiving the awards must have outstanding academic records.
