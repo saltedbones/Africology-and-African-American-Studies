@@ -8,6 +8,8 @@ published: false
 
 ## Awards and Scholarships
 
+The department offers three internal awards for graduating seniors—two privately-sponsored awards for outstanding academic performance and one departmental award for outstanding service. The Department of African American Studies supervises the Temple in Ghana program, which allows students to study for six weeks during the summer at the University of Ghana in Accra. Academic awards are given annually at the Department’s celebration held the week before Commencement. All African and African American Studies students are eligible for the awards for academic excellence below. Students receiving the awards must have outstanding academic records.
+
 **Adeniyi Coker Award**
 
 This award is given in the name of the first student to receive a PhD in African American Studies in the nation from an academic department. Dr. Adeniyi Coker has been an exemplary graduate of the department and has achieved a high status as an author, professor, and distinguished scholar. The student who receives this award demonstrates Pan African ideals in work and expression.
