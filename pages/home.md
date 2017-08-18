@@ -5,7 +5,7 @@ meta-description: >-
   rich complexity   of American culture and American lives.
 meta-keywords: 'american studies, U.S. life, culture'
 permalink: /
-layout: faculty2
+layout: home
 feature: true
 feature-title: Study Where it All Began
 feature-body: >-
