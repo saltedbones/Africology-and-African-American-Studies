@@ -1,6 +1,8 @@
 ---
 # Program/Department Title
 title: Africology and African American Studies
+# Site URL (without /)
+url: ""
 # Subdirectory (with / at only at beginning)
 baseurl: /africology-and-african-american-studies
 
@@ -48,7 +50,7 @@ social:
   slack:
 
 # University & College Information
-university: 
+university:
   name: Temple University
   url: https://temple.edu/
 college:
@@ -56,7 +58,7 @@ college:
   url: https://liberalarts.temple.edu/
 
 # Google Tag Manager OR Google Analytics
-google_analytics: 
+google_analytics:
 
 
 google_tag_manager: GTM-58ZL5B
