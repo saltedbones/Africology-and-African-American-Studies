@@ -1,5 +1,7 @@
 ---
 title: Home
+meta-description: 100 or so words
+meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
 published: true
@@ -9,9 +11,29 @@ The mission of Temple University’s Department of African American Studies is t
 
 Thus, while we emphasize and encourage the Afrocentric study of phenomena we are committed to engagement with scholars on comparative analysis of African societies, class and gender critiques of established regimes, and historical and archival materials that impinge on knowledge of the African world. Our department expects students to reach for excellence by interrogating African cultural frames of reference, from the classical to the contemporary period, while plunging into the depths of African continuities in Diaspora communities. This means that we have as a part of our mission the exploration of issues of race, ethnicity, and African regionalism over time and place.
 
-## Academic Offerings
 
-- [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
-- [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
-- [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/#text)
-- [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+<div class="row row-wide">
+  <div class="col m12 l4">{% include cards/card2-image.html 
+    title=" " 
+    content=" " 
+    image="" 
+    button-link=" " 
+    button-text="Learn More" %}
+  </div>
+  <div class="row row-wide">
+    <div class="col m12 l4">{% include cards/card2-image.html 
+      title=" " 
+      content=" " 
+      image="" 
+      button-link=" " 
+      button-text="Learn More" %}
+    </div>
+    <div class="row row-wide">
+      <div class="col m12 l4">{% include cards/card2-image.html 
+        title=" " 
+        content=" " 
+        image="" 
+        button-link=" " 
+        button-text="Learn More" %}
+      </div>
+</div>
