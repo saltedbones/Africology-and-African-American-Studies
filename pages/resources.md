@@ -27,6 +27,7 @@ The department is the home to the Journal of Black Studies, the most prestigious
 
 **General Resources**
 
+- [Graduate Handbook](http://www.cla.temple.edu/africanamericanstudies/files/2017/04/AAAS-Grad-Handbook-Revised-2017-18-Final.pdf)
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
