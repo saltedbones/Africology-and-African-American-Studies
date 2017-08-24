@@ -14,10 +14,10 @@ Thus, while we emphasize and encourage the Afrocentric study of phenomena we are
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="Study In Ghana" 
+    content=" Ipslem Lorum " 
     image="" 
-    button-link=" " 
+    button-link="https://studyabroad.temple.edu/" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
