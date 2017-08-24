@@ -45,7 +45,7 @@ The goal of the department of African-American Studies is to prepare its majors 
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
- ## Academic Offerings
+## Academic Offerings
 
 - [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 - [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
