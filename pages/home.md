@@ -40,7 +40,7 @@ Temple’s Department of Africology and African American Studies is one of the o
         title="Career Center " 
         content="The Career Center provides all Temple students and alumni with a full range of services to optimize their internship and employment opportunities and enhance their life-long career success." 
         image="" 
-        button-link=" " 
+        button-link="http://www.temple.edu/provost/careercenter/" 
         button-text="Learn More" %}
       </div>
 </div>
