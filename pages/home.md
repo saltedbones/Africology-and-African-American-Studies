@@ -10,8 +10,7 @@ The Department of Africology and African American Studies at Temple University o
 
 ## First in Our Field
 
-Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field.
-Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression. Temple University has more African American students than any university in the Northeast, and it attracts world-class scholars and students from around the nation and the world. 
+Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field.Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression. Temple University has more African American students than any university in the Northeast, and it attracts world-class scholars and students from around the nation and the world. 
 
 ## Academic Offerings
 
