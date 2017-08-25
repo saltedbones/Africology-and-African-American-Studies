@@ -6,11 +6,19 @@ permalink: /
 layout: home
 published: true
 ---
+The Department of Africology and African American Studies at Temple University offers students the opportunity to study the issues that people of African descent face worldwide. Professors at Temple have published more books than any other Department of African American Studies in the nation. Our faculty edits the Journal of Black Studies, the top journal in the field.
 
-The mission of Temple University’s Department of African American Studies is to provide students with a textured intellectual experience through the systematic Afrocentric study of the thought, behavior and practices of African people in the Americas, the Caribbean and the continent of Africa. As such we are a trans-generational and trans-continental program that seeks to sustain a full analytical and critical discourse on all issues related to the Africana experience. In as much as our faculty and students pursue knowledge from the internal perspective of African people as agents and subjects of experience we also remain open to plural understandings and the multicultural nature of contemporary society.
+## First in Our Field
 
-Thus, while we emphasize and encourage the Afrocentric study of phenomena we are committed to engagement with scholars on comparative analysis of African societies, class and gender critiques of established regimes, and historical and archival materials that impinge on knowledge of the African world. Our department expects students to reach for excellence by interrogating African cultural frames of reference, from the classical to the contemporary period, while plunging into the depths of African continuities in Diaspora communities. This means that we have as a part of our mission the exploration of issues of race, ethnicity, and African regionalism over time and place.
+Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field.
+Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression. Temple University has more African American students than any university in the Northeast, and it attracts world-class scholars and students from around the nation and the world. 
 
+## Academic Offerings
+
+• BA in Africology and African American Studies (LINK)
+• Minor in Africology and African American Studies (LINK)
+• MA in Africology and African American Studies (LINK)
+• PhD in Africology and African American Studies (LINK)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
@@ -22,7 +30,7 @@ Thus, while we emphasize and encourage the Afrocentric study of phenomena we are
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
+      title="Apply " 
       content=" " 
       image="" 
       button-link=" " 
@@ -30,8 +38,8 @@ Thus, while we emphasize and encourage the Afrocentric study of phenomena we are
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
-        content=" " 
+        title="Career Center " 
+        content="The Career Center provides all Temple students and alumni with a full range of services to optimize their internship and employment opportunities and enhance their life-long career success." 
         image="" 
         button-link=" " 
         button-text="Learn More" %}
