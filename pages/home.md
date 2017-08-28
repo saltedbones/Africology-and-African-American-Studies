@@ -14,10 +14,11 @@ Temple’s Department of Africology and African American Studies is one of the o
 
 ## Academic Offerings
 
-• [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
-• [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
-• [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
-• [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+- • [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
+- • [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
+- • [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
+- • [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+
 
 ## Apply
 
