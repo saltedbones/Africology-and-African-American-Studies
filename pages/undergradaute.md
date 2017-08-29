@@ -37,17 +37,52 @@ sidebar-content: |
    [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
 ---
 
-## Program Overview
+## Bachelor of Arts in Africology and African American Studies
 
-The undergraduate program in African American Studies at Temple University is dedicated to providing students with an invigorating intellectual experience centered on the inspiring contributions and challenges that Africans, continental and diaspora, have made and confronted on the road to human excellence. Our students are exposed to national and international leaders in African American Studies who constantly push the boundaries of learning from the base of African culture, history, literature, and languages toward the exhilarating knowledge of self and community. With a strong focus on the interrelationship of the African experience in the Americas and the Caribbean our professors are able to guide undergraduate students toward new ways of viewing economic and political realities, ethnic and cultural relationships, religion, and language. Our undergraduate courses are meant to prepare the student for critical and analytical research and creativity. Every opportunity is taken to embrace the student as a significant learner in a vigorous community of researchers and learners. Indeed, Philadelphia, one of the oldest sites of African presence in the United States, is a laboratory for much of our research and teaching.
+The Africology and African American Studies program at Temple University provides undergraduates with the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students are guided through scholarly reflection by leaders in the field.
 
-The goal of the department of African-American Studies is to prepare its majors and minors to take roles of effective agency, participation, and leadership in the intellectual, research, and social activist domains of professional and community life. Temple’s African-American Studies majors are represented in such diverse career arenas as law, primary and secondary education and administration, social work, medicine, cultural and artistic institutions, law enforcement, and city government.]
+The Africology and African American Studies major stresses critical thinking, persuasive writing and problem solving skills. You'll be exposed to Africana theory and encouraged to engage in research and service outside your classroom walls. If you study at our department, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+[Learn More about Majoring in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 
-## Academic Offerings
+## Minor in Africology and African American Studies
+
+Regardless of what your major is, a minor in African American studies adds an interdisciplinary depth to your main course of study. This minor allows students interested in business, the sciences, engineering, government and social services to present to prospective employers an exceptional academic background. 
+
+[Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
+
+## Is a BA or Minor in African American Studies Valuable?
+
+Like Temple Owls, AAAS majors and minors are everywhere! An undergraduate degree in Africology and African American Studies prepares students for graduate work in the humanities, social sciences and for professional schools. Alumni of the African American Studies program work in education, social work, research, law enforcement, city government and have also worked with museums and other cultural and artistic institutions. 
+
+To read more about what our graduates are accompishing read more here. (LINK) 
+
+## Undergraduate Advising
+
+The Center for Academic Advising and Professional Development counsels students on both classroom and career issues. Advisers help undergraduate students navigate their curriculums, choose a major or minor, explore career opportunities and determine post-graduation plans.
+
+[Learn More](https://liberalarts.temple.edu/advising)
+
+## Temple University Tuition
+
+Temple University’s tuition rates vary by school or college, student level, residency, and more. Use the student tuition calculator to estimate your tuition rate. 
+
+- [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+
+## Financial Aid and Scholarships
+
+Figuring out how to pay for college is a major financial decision. Temple University offers financial assistance to eligible students through scholarships, grants, loans and work-study programs. Filling out the Free Application for Federal Student Aid, better known as the FAFSA, often results in a substantial boost in financial assistance. In addition, Temple University and the Department of Africology and African-American Studies offer numerous scholarships to assist you in financing college.
+
+- [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
+- Department Scholarships (Needs updated info and internal link)
+
+## Undergraduate Admissions to Temple University
+
+Are you ready to apply? Submit your online application at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+
+## Curriculum and Academic Requirements
 
 - [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 - [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
-- [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/#text)
-- [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+
+
