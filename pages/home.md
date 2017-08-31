@@ -6,7 +6,7 @@ permalink: /
 layout: home
 published: true
 ---
-The Department of Africology and African American Studies at Temple University offers students the opportunity to study the issues that people of African descent face worldwide. Professors at Temple have published more books than any other Department of African American Studies in the nation. Our faculty edits the Journal of Black Studies, the top journal in the field. Temple University attracts and produces world-class scholars in black studies, and has more African African American students than any other University in the Northeast. 
+The Department of Africology and African American Studies at Temple University offers students the opportunity to study the issues that people of African descent face worldwide. Professors at Temple have published more books than any other Department of African American Studies in the nation. Our faculty edits the Journal of Black Studies, the top journal in the field. Temple University attracts and produces world-class scholars in black studies, and has more African American students than any other University in the Northeast. 
 
 ## First in Our Field
 
