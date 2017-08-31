@@ -1,6 +1,8 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
+meta-description: >-
+  Critically examine and interpret the experiences, traditions and dynamics of people of African descent
+meta-keywords: 'Africology, African American Studies, scholars and learners'
 permalink: /undergraduate/
 layout: page
 published: true
@@ -47,15 +49,15 @@ The Africology and African American Studies major stresses critical thinking, pe
 
 ## Minor in Africology and African American Studies
 
-Regardless of what your major is, a minor in African American studies adds an interdisciplinary depth to your main course of study. This minor allows students interested in business, the sciences, engineering, government and social services to present to prospective employers an exceptional academic background. 
+Regardless of what your major is, a minor in African American studies adds an interdisciplinary depth to your main course of study. This minor allows students interested in business, the sciences, engineering, government and social services to present to prospective employers an exceptional academic background.
 
 [Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
 ## Is a BA or Minor in African American Studies Valuable?
 
-Like Temple Owls, AAAS majors and minors are everywhere! An undergraduate degree in Africology and African American Studies prepares students for graduate work in the humanities, social sciences and for professional schools. Alumni of the African American Studies program work in education, social work, research, law enforcement, city government and have also worked with museums and other cultural and artistic institutions. 
+Like Temple Owls, AAAS majors and minors are everywhere! An undergraduate degree in Africology and African American Studies prepares students for graduate work in the humanities, social sciences and for professional schools. Alumni of the African American Studies program work in education, social work, research, law enforcement, city government and have also worked with museums and other cultural and artistic institutions.
 
-To read more about what our graduates are accompishing read more here. (LINK) 
+To read more about what our graduates are accompishing read more here. (LINK)
 
 ## Undergraduate Advising
 
@@ -65,7 +67,7 @@ The Center for Academic Advising and Professional Development counsels students 
 
 ## Temple University Tuition
 
-Temple University’s tuition rates vary by school or college, student level, residency, and more. Use the student tuition calculator to estimate your tuition rate. 
+Temple University’s tuition rates vary by school or college, student level, residency, and more. Use the student tuition calculator to estimate your tuition rate.
 
 - [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
@@ -84,5 +86,3 @@ Are you ready to apply? Submit your online application at [admissions.temple.edu
 
 - [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 - [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
-
-

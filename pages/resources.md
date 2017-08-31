@@ -1,6 +1,8 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
+meta-description: >-
+  Current Student resources and support services
+meta-keywords: 'Undergraduate Resources, Graduate, Awards and Scholarships'
 permalink: /resources/
 layout: page
 published: true
@@ -12,9 +14,9 @@ The Charles Blockson Afro American Collection located on the first floor of the 
 
 ### General resources:
 
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp) 
-- [Graduation Application process](http://www.temple.edu/registrar/students/graduation) 
-- [Financing your Education](http://sfs.temple.edu/) 
+- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
+- [Financing your Education](http://sfs.temple.edu/)
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
 ## Graduate Resources

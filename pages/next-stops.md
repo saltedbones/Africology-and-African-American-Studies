@@ -1,6 +1,8 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
+meta-description: >-
+  Training in African American Studies provides the foundation and tools needed to guide your personal and professional aspirations.
+meta-keywords: 'career paths, Ghana'
 permalink: /next-stops/
 layout: page
 published: true
@@ -60,7 +62,7 @@ Training in African American Studies provides the foundation and tools needed no
 
 ## Internships/Opportunities
 
-The Department of African American Studies supervises the Temple in Ghana program, which allows students to study for six weeks during the summer at the University of Ghana in Accra. Learn more about the [Temple in Ghana program](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html) by visiting the program’s web site.The department has a limited number of work-study and regular student awards that might assist undergraduates in special circumstances. 
+The Department of African American Studies supervises the Temple in Ghana program, which allows students to study for six weeks during the summer at the University of Ghana in Accra. Learn more about the [Temple in Ghana program](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html) by visiting the program’s web site.The department has a limited number of work-study and regular student awards that might assist undergraduates in special circumstances.
 
 ## Make Your Declaration
 ​
@@ -76,7 +78,7 @@ The Office of Admissions offers tours daily. To register for a tour, please go t
 ​
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
 ​
-To learn more about transferring to Temple, please visit [temple.edu/transfer](http://admissions.temple.edu/transfer). 
+To learn more about transferring to Temple, please visit [temple.edu/transfer](http://admissions.temple.edu/transfer).
 ​
 ## Apply
 ​
