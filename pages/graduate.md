@@ -1,6 +1,8 @@
 ---
 title: Graduate
-meta-keywords: 3 or 4 unique for this page
+meta-description: >-
+  Devoted to the training of research scholars and educators in the discipline.
+meta-keywords: 'globalization, medical sociology, race and ethnicity, '
 permalink: /graduate/
 layout: page
 published: true
@@ -41,7 +43,7 @@ sidebar-content: |
 
 Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
 
-The Department of African American Studies offers full-time graduate work leading to a Master’s and PhD in African American Studies. The graduate programs at Temple are trans-continental and trans-generational in their integrated approach to domestic and international issues in African phenomena. Thus, we encourage our students to explore either the social-behavioral or the cultural-aesthetic concentrations in our graduate programs. Many students discover that they prefer to take the core courses and then to have a trans-concentration emphasis in their work. 
+The Department of African American Studies offers full-time graduate work leading to a Master’s and PhD in African American Studies. The graduate programs at Temple are trans-continental and trans-generational in their integrated approach to domestic and international issues in African phenomena. Thus, we encourage our students to explore either the social-behavioral or the cultural-aesthetic concentrations in our graduate programs. Many students discover that they prefer to take the core courses and then to have a trans-concentration emphasis in their work.
 
 ### M.A. in African American Studies
 
