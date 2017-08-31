@@ -10,7 +10,7 @@ The Department of Africology and African American Studies at Temple University o
 
 ## First in Our Field
 
-Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression. As a result the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. 
+Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. 
 
 ## Academic Offerings
 
