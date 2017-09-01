@@ -43,7 +43,7 @@ sidebar-content: |
 
 The Africology and African American Studies program at Temple University provides undergraduates with the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students are guided through scholarly reflection by leaders in the field.
 
-The Africology and African American Studies major stresses critical thinking, persuasive writing and problem solving skills. You'll be exposed to Africana theory and encouraged to engage in research and service outside your classroom walls. If you study at our department, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
+Our curriculum stresses critical thinking, persuasive writing and problem solving skills. You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom walls. If you study at our department, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
 
 [Learn More about Majoring in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 
@@ -73,7 +73,7 @@ Temple University’s tuition rates vary by school or college, student level, re
 
 ## Financial Aid and Scholarships
 
-Figuring out how to pay for college is a major financial decision. Temple University offers financial assistance to eligible students through scholarships, grants, loans and work-study programs. Filling out the Free Application for Federal Student Aid, better known as the FAFSA, often results in a substantial boost in financial assistance. In addition, Temple University and the Department of Africology and African-American Studies offer numerous scholarships to assist you in financing college.
+Figuring out how to pay for college is a major financial decision. Temple University offers financial assistance to eligible students through scholarships, grants, loans and work-study programs. Filling out the Free Application for Federal Student Aid, better known as the FAFSA, often results in a substantial boost in financial assistance. 
 
 - [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
 - Department Scholarships (Needs updated info and internal link)
