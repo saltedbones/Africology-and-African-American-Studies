@@ -20,7 +20,7 @@ Temple’s Department of Africology and African American Studies is one of the o
 
 ## An Afrocentric Approach 
 
-Our courses and programs allow students to explore a variety of academic experiences from the standpoint of academic experiences from the standpoint of African agency. 
+Our courses and programs allow students to explore a variety of academic experiences from the standpoint of academic experiences from the standpoint of African agency.  
 
 ## Academic Offerings
 
