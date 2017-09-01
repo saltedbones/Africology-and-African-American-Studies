@@ -73,7 +73,7 @@ Temple University’s tuition rates vary by school or college, student level, re
 
 ## Financial Aid and Scholarships
 
-Figuring out how to pay for college is a major financial decision. Temple University offers financial assistance to eligible students through scholarships, grants, loans and work-study programs. Filling out the Free Application for Federal Student Aid, better known as the FAFSA, often results in a substantial boost in financial assistance. 
+If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance
 
 - [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
 - Department Scholarships (Needs updated info and internal link)
