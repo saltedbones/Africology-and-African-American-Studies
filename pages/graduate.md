@@ -1,7 +1,6 @@
 ---
 title: Graduate
-meta-description: >-
-  Devoted to the training of research scholars and educators in the discipline.
+meta-description: Devoted to the training of research scholars and educators in the discipline.
 meta-keywords: 'globalization, medical sociology, race and ethnicity, '
 permalink: /graduate/
 layout: page
@@ -38,34 +37,57 @@ sidebar-content: |
    [(215) 204-8491](tel:2152048491)   
    [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
 ---
+## First in the Field of African American Studies
 
-## Program Overview
+The African presence and experience has shaped the social, political, economic, cultural, intellectual and psychological landscape of the United States and the world. The Department of Africology and African American Studies provides graduate and doctoral level students with an Afrocentric study of the history, culture, art, politics and economics of Africans and people of African descent globally. Afrocentricity is a paradigm that suggests African people should re-assert agency in their narratives. 
 
-Our graduate programs are devoted to the training of research scholars and educators in the discipline. We provide advanced training in sociological theory, statistics and research methods in the areas of gender and sexuality, immigration and globalization, medical sociology, race and ethnicity and urban sociology.
-
-The Department of African American Studies offers full-time graduate work leading to a Master’s and PhD in African American Studies. The graduate programs at Temple are trans-continental and trans-generational in their integrated approach to domestic and international issues in African phenomena. Thus, we encourage our students to explore either the social-behavioral or the cultural-aesthetic concentrations in our graduate programs. Many students discover that they prefer to take the core courses and then to have a trans-concentration emphasis in their work.
-
-### M.A. in African American Studies
-
-- [MA in African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
-- [PhD in African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/#admissiontext)
-
-The MA in African American Studies is designed to teach the student the fundamental theoretical and practical issues confronting African people trans-continentally and trans-generationally. Students will usually meet with their advisors throughout the graduate experience and be guided toward a concentration in their interests. A student who completes the MA in African American Studies has a valuable degree that often serves as a basis for the student pursuing the PhD in African American Studies or a cognate field.
-
-1. Students in our programs are also encouraged to participate in the many professional and Afrocentric organizations in our department. All graduate students are encouraged to immediately join the Graduate Student Association. In addition, students may seek to associate themselves with several professional and community organizations such as Imhotep, the graduate student journal, Afrocentricity International, or the National Council for Black Studies.  For more information on how you can carry out social responsibility as part of your education, please see the Graduate Director.
-
-Learn more about the [MA in African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/#text) program requirements. [Apply online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon) to the MA in African American Studies program requirements.
+We are known for our innovation, energy and influence. Our faculty edits the top journal in our discipline, the Journal of Black Studies, and publishes in international journals. We participate in all significant associations, and maintain a high profile in domestic and international conferences. 
 
 ### PhD in African American Studies
 
-The PhD in African American Studies at Temple University constitutes the top degree in the field. A student applying and being accepted to the program will be prepared for university teaching, scholarly research positions, as well as national and international advisory positions dealing with African American and African issues and affairs. Our students have superior records of employment in the university and public sectors.
+Temple is the first University that offer a PhD program in African American Studies.  Graduates engage in a diverse range of intellectual issues that affect the lives of Africans on the continent and in the diaspora. The program reflects a deep commitment to the self-directed study of African peoples. Our students are prepared for university teaching and scholarly research. Our graduates have an excellent track record of employment based on their area of academic concentration. They work in academia, university or high school administration, public and, the entertainment industry, criminal justice, journalism, public relations or social work.  
 
-Learn more about the [PhD in African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/) program requirements. [Apply online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon) to the Ph.D. in African American Studies program requirements.
+[Learn More about the PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
-_**Application Deadline:
-Fall: January 15
-Applications for admission are processed together shortly after the deadline date.**_
+### MA in African American Studies
+
+The MA in African American Studies is designed to teach students about fundamental theoretical and practical issues confronting African people trans-continentally and trans-generationally. The MA program seeks to answer personal and intellectual aspirations of students that are not satisfied by a BA degree in African American Studies. An MA in African American Studies often serves as a basis for a PhD in African American Studies or in an affiliated field.
+
+[Learn More about the MA in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
+
+## Study Abroad in Ghana
+
+Studying abroad in Ghana gives graduate students in African American Studies to enhance their Temple University education. Students get firsthand experience gives students an opportunity to investigate the historical, literary, cultural and linguistic aspects of West African civilization. The program is based at the University of Ghana in Accra, a vibrant coastal city and the capital of Ghana. Experience the warm culture and booming music scene, all while adding new depth to your study and research. 
+
+[Learn More about Studying Abroad in Ghana](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
+
+## Awards and Scholarships
+
+Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships and scholarships on a highly competitive basis. The awards usually involve teaching or assisting one or more faculty with instructional duties. 
+
+-[Student Financial Services](https://sfs.temple.edu/financial-aid-types/scholarships/study-abroad)
+-Scholarships at the Department of Africology and African American Studies (Needs Page to be Built and Linked to)
+
+## Academic Advising
+
+As a student working toward an MA or PhD, you will  meet with advisors throughout your time at the department and be guided toward a concentration based on your interests and available resources at the department. Possible concentrations include:
+
+- African and African American History
+- African and African American Literature
+- African American Drama
+- African American Psychology
+- African Civilizations
+- African Languages
+- Afrocentric Theory
+- Caribbean Culture
+- Cultural Studies
+- Ethnographic Methods
+- Gender, Sexuality and Women's Studies
 
 ## Admissions Process
 
-The Department offers two graduate degrees: the Master’s (MA) and the PhD. Our distinguished and experienced faculty are ready to advise each student and to mentor the student toward a professional career. Admission requirements to the M.A. and Ph.D. programs in African American Studies follows the general requirements established by the Graduate School at Temple University. Click **here******( I WILL ADD THE LINK FOR THE GRADUATE PADMISSIONS PAGE I CREATED IN DRUPAL WHEN THE LANDING PAGE IS FINISHED)** for detailed instructions on how to apply.
+Admission requirements to the MA. and PhD programs in African American Studies follows the general requirements established by the Graduate School at Temple University. 
+
+[Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
+
+
