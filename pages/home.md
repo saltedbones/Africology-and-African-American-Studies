@@ -7,12 +7,9 @@ layout: home
 feature: true
 feature-title: First in Our Field
 feature-body: >-
-  One of the oldest of similar departments in the nation, and we were the first
-  to offer a doctoral program in our field. Our department emerged during the
-  Black Power movement, when black students demanded a Black Studies department
-  to combat racism, discrimination, and oppression. As a result, the Afro-Asian
-  Institute was created in 1971, and the Pan African Studies Department was
-  established the following year. 
+  Our department emerged during the Black Power movement, when black students
+  demanded a Black Studies department to combat racism, discrimination, and
+  oppression.
 feature-image: media/hero_bg@3x.png
 published: true
 ---
@@ -39,6 +36,8 @@ We attract and produce world-class scholars in Black Studies, and have more Afri
 ## Apply
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+
+
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
