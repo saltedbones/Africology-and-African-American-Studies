@@ -13,13 +13,15 @@ feature-body: >-
 feature-image: media/hero_bg@3x.png
 published: true
 ---
-## Why Study African American Studies at Temple?
+## African American Studies at Temple
 
-We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast. Our faculty edits the Journal of Black Studies, the top journal in the field. African American Studies is indisciplinary, and our courses emphasize a variety of subject areas including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live; whether it be in America, The Carribbean, Europe or Africa. Our courses and programs are Afrocentric, we explore academic experiences from the standpoint of African agency. Our curriculum stresses critical thinking, persuasive writing and problem solving skills.  
+We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast. Our faculty edits the Journal of Black Studies, the top journal in our field. African American Studies is indisciplinary, and our courses emphasize a variety of subjects including literature, history, art and social science. 
+
+We are global and comparative, and we study people of African descent wherever they live; whether it be in America, the Carribbean, Europe, South America or Africa. Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency. Our curriculum stresses critical thinking, persuasive writing and problem solving skills.  
 
 ## First in Our Field
 
-Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. If you join us, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
+Temple’s Department of Africology and African American Studies is one of the oldest of similar programs in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. If you join us, you'll join an energetic group of scholars who seek to continue what began more than forty years ago.
 
 ## Academic Offerings
 
