@@ -2,7 +2,7 @@
 title: Undergraduate
 meta-keywords: >-
   Major in African American Studies, Black Studies, BA in African American
-  Studies
+  Studies, Temple University, Minor in African African Studies
 permalink: /undergraduate/
 layout: page
 published: true
