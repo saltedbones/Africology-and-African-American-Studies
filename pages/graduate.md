@@ -39,15 +39,15 @@ sidebar-content: |
 ---
 ## First in the Field of African American Studies
 
-The Department of Africology and African American Studies provides graduate and doctoral level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent globally. The African presence and experience has shaped the social, political, economic, cultural, intellectual and psychological landscape of the United States and the world.  We are known for our innovation, energy and influence.  
+The Department of Africology and African American Studies provides graduate and doctoral level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent globally. We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation. Temple graduates have published more than 100 books, and lead more programs in African American Studies than graduates of any other program. 
 
-## Participate in Academic Research and Conferences
+## Get Involved in the Academic Community
 
-Our faculty edits the top journal in our discipline, the Journal of Black Studies, and faculty members participate in all the significant associations including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the Journal of Black Studies and participate in African American Studies conferences alongside us.
+Our faculty edits the top journal in our discipline, the Journal of Black Studies, and faculty members participate in all the significant associations including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the Journal of Black Studies and participate in African American Studies conferences alongside us. 
 
 ### PhD in African American Studies
 
-Temple is the first University that offer a PhD program in African American Studies. The program reflects a deep commitment to the self-directed study of African peoples; students have the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent worldwide.  Our students are prepared for university teaching and scholarly research and have an excellent track record of employment based on their academic concentrations. the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent.
+Temple is the first University that offer a PhD program in African American Studies. The program reflects a deep commitment to the self-directed study of African peoples; Our courses and programs give students the opportunity to explore a variety of academic experiences from the standpoint of African agency. Our students are prepared for university teaching and scholarly research and have excellent employment track records.  
 
 [Learn More about the PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
@@ -59,7 +59,7 @@ The MA in African American Studies is designed to teach students about fundament
 
 ## Study Abroad in Ghana
 
-Studying abroad in Ghana gives graduate students in African American Studies to enhance their Temple University education. Students get firsthand experience gives students an opportunity to investigate the historical, literary, cultural and linguistic aspects of West African civilization. The program is based at the University of Ghana in Accra, a vibrant coastal city and the capital of Ghana. Experience the warm culture and booming music scene, all while adding new depth to your Africana, African American and Black Studies program. 
+Studying abroad in Ghana gives graduate students in African American Studies to enhance their Temple University education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization through first-hand experience. Based at the University of Ghana in Accra, a vibrant coastal city and the capital of Ghana. Experience the warm culture and booming music scene, all while adding new depth to your Africology and African American Studies program. 
 
 [Learn More about Studying Abroad in Ghana](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
 
@@ -72,7 +72,7 @@ Most students receive some form of financial aid to help them pay for graduate s
 
 ## Academic Advising
 
-As a student working toward an MA or PhD, you will  meet with advisors throughout your time at the department and be guided toward a concentration based on your interests and available resources at the department. Possible concentrations include:
+As a student working toward an MA or PhD, you will  meet with advisors throughout your time at the department and be guided toward a concentration based on your interests and resources available at the department. Possible concentrations include:
 
 - African and African American History
 - African and African American Literature
@@ -88,6 +88,6 @@ As a student working toward an MA or PhD, you will  meet with advisors throughou
 
 ## Admissions Process
 
-Admission requirements to the MA. and PhD programs in African American Studies follows the general requirements established by the Graduate School at Temple University. 
+Admission requirements to the MA and PhD programs in African American Studies follows the general requirements established by the Graduate School at Temple University. 
 
 [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
