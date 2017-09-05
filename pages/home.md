@@ -1,7 +1,7 @@
 ---
 title: home
 meta-description: Africology and African American Studies
-meta-keywords: 'Black Power movement, world-class scholars'
+meta-keywords: 'African American Studies, Black Studies, Temple University'
 permalink: /
 layout: home
 feature: true
@@ -20,11 +20,11 @@ Temple’s Department of Africology and African American Studies is one of the o
 
 ## An Afrocentric Approach 
 
-Our courses and programs allow students to explore a variety of academic experiences from the standpoint of African agency. We provide undergraduates and graduate students the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students are guided through scholarly reflection by leaders in the field. Our curriculum stresses critical thinking, persuasive writing and problem solving skills. You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom walls. 
+Our courses and programs allow students to explore a variety of academic experiences from the standpoint of African agency.  We provide undergraduates and graduate students the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora.  Students are guided through scholarly reflection by leaders in Black and Africana Studies.  Our curriculum stresses critical thinking, persuasive writing and problem solving skills.  You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom. 
 
 ## Why Study African American Studies at Temple?
 
-We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast. Our faculty edits the Journal of Black Studies, the top journal in the field. African American Studies is indisplinary, and our courses emphasize a variety of subject areas including literature, history, art and social science.  We are global and comparative, and we study people of African descent wherever they live and compare the Black experience to other groups of people. If you study get a degree in African American studies, you’ll develop an in-demand skill that prepares you for a career in fields that include social work and administration, research, education, law enforcement, city government, or in cultural and artistic institutions. 
+We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast.  Our faculty edits the Journal of Black Studies, the top journal in the field. African American Studies is indisplinary, and our courses emphasize a variety of subject areas including literature, history, art and social science.  We are global and comparative, and we study people of African descent wherever they live and compare the Black experience to other groups of people.  If you study get a degree in African American studies, you’ll develop an in-demand skill that prepares you for a career in fields that include social work and administration, research, education, law enforcement, city government, or in cultural and artistic institutions.  
 
 ## Academic Offerings
 
