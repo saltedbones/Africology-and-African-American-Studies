@@ -44,9 +44,9 @@ meta-description: >-
 
 ## Bachelor of Arts in Africology and African American Studies
 
-The Africology and African American Studies program at Temple University provides undergraduates with the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students are guided through scholarly reflection by leaders in the field.
+The Africology and African American Studies program at Temple University provides undergraduates with the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students who major in African American Studies are guided through scholarly reflection by leaders in the field. 
 
-Our curriculum stresses critical thinking, persuasive writing and problem solving skills. Students who minor or major in African American Studies are prepared to take roles of effective agency, participation and leadership in their communities and professions.  You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom walls. If you study at our department, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
+Our curriculum stresses critical thinking, persuasive writing and problem solving skills - skills that employers in any industry value. Students are prepared to take roles of effective agency, participation and leadership in their communities and professions.  You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom walls. If you study with us, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
 
 [Learn More about Majoring in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 
@@ -57,6 +57,8 @@ Regardless of what your major is, a minor in African American studies adds an in
 [Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
 ## Is a BA or Minor in African American Studies Valuable?
+
+A BA in African American Studies is a solid liberal arts degree that prepares studes to graduate with the skills employers in every industry value
 
 Like Temple Owls, AAAS majors and minors are everywhere! An undergraduate degree in Africology and African American Studies prepares students for graduate work in the humanities, social sciences and for professional schools. Alumni of the African American Studies program work in education, social work, research, law enforcement, city government and have also worked with museums and other cultural and artistic institutions.
 
