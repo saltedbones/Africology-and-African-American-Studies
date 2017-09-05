@@ -1,7 +1,11 @@
 ---
 title: Graduate
-meta-description: Devoted to the training of research scholars and educators in the discipline.
-meta-keywords: 'globalization, medical sociology, race and ethnicity, '
+meta-description: >-
+  Earn your MA or PhD in African American Studies from Temple University. Our
+  faculty edits the prestigious Journal of Black Studies.
+meta-keywords: >-
+  phd in african american studies, ma in african american studies, graduate
+  program in african american studies 
 permalink: /graduate/
 layout: page
 published: true
