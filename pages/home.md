@@ -13,18 +13,13 @@ feature-body: >-
 feature-image: media/hero_bg@3x.png
 published: true
 ---
+## Why Study African American Studies at Temple?
+
+We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast. Our faculty edits the Journal of Black Studies, the top journal in the field. African American Studies is indisciplinary, and our courses emphasize a variety of subject areas including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live; whether it be in America, The Carribbean, Europe or Africa. Our courses and programs are Afrocentric, we explore academic experiences from the standpoint of African agency. Our curriculum stresses critical thinking, persuasive writing and problem solving skills.  
 
 ## First in Our Field
 
-Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field.  Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression.  As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year.  If you join us, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
-
-## An Afrocentric Approach 
-
-Our courses and programs allow students to explore a variety of academic experiences from the standpoint of African agency.  We provide undergraduates and graduate students the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora.  Students are guided through scholarly reflection by leaders in Black and Africana Studies.  Our curriculum stresses critical thinking, persuasive writing and problem solving skills.  You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom. 
-
-## Why Study African American Studies at Temple?
-
-We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast.  Our faculty edits the Journal of Black Studies, the top journal in the field. African American Studies is indisplinary, and our courses emphasize a variety of subject areas including literature, history, art and social science.  We are global and comparative, and we study people of African descent wherever they live and compare the Black experience to other groups of people.  If you study get a degree in African American studies, you’ll develop an in-demand skill that prepares you for a career in fields that include social work and administration, research, education, law enforcement, city government, or in cultural and artistic institutions.  
+Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. If you join us, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
 
 ## Academic Offerings
 
