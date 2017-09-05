@@ -41,7 +41,7 @@ sidebar-content: |
    [(215) 204-8491](tel:2152048491)   
    [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
 ---
-## First in the Field of African American Studies
+## Earn an MA or PhD in African American Studies
 
 The Department of Africology and African American Studies provides graduate and doctoral level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent globally. We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation. Temple graduates have published more than 100 books, and lead more programs in African American Studies than graduates of any other program. 
 
