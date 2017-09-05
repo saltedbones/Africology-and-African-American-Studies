@@ -45,13 +45,13 @@ The Department of Africology and African American Studies provides graduate and 
 
 Our faculty edits the top journal in our discipline, the Journal of Black Studies, and faculty members participate in all the significant associations including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the Journal of Black Studies and participate in African American Studies conferences alongside us. 
 
-### PhD in African American Studies
+## PhD in African American Studies
 
 Temple is the first University that offer a PhD program in African American Studies. The program reflects a deep commitment to the self-directed study of African peoples; Our courses and programs give students the opportunity to explore a variety of academic experiences from the standpoint of African agency. Our students are prepared for university teaching and scholarly research and have excellent employment track records.  
 
 [Learn More about the PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
-### MA in African American Studies
+## MA in African American Studies
 
 The MA in African American Studies is designed to teach students about fundamental theoretical and practical issues confronting African people trans-continentally and trans-generationally. The MA program seeks to answer personal and intellectual aspirations of students that are not satisfied by a BA degree in African American Studies. An MA in African American Studies often serves as a basis for a PhD in African American Studies or in an affiliated field.
 
