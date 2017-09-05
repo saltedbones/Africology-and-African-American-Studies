@@ -16,11 +16,13 @@ feature-body: >-
 feature-image: media/hero_bg@3x.png
 published: true
 ---
-Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. If you join us, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
+## First in Our Field
+
+Temple’s Department of Africology and African American Studies is one of the oldest of similar departments in the nation, and we were the first to offer a doctoral program in our field.  Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination, and oppression.  As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year.  If you join us, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
 
 ## An Afrocentric Approach 
 
-Our courses and programs allow students to explore a variety of academic experiences from the standpoint of academic experiences from the standpoint of African agency. We provide undergraduates and graduate students the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students are guided through scholarly reflection by leaders in the field. Our curriculum stresses critical thinking, persuasive writing and problem solving skills. You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom walls. 
+Our courses and programs allow students to explore a variety of academic experiences from the standpoint of African agency. We provide undergraduates and graduate students the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students are guided through scholarly reflection by leaders in the field. Our curriculum stresses critical thinking, persuasive writing and problem solving skills. You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom walls. 
 
 ## Why Study African American Studies at Temple?
 
