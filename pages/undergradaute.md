@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
 meta-description: >-
-  Critically examine and interpret the experiences, traditions and dynamics of people of African descent
+  Critically examine and interpret the experiences, traditions and dynamics of
+  people of African descent
 meta-keywords: 'Africology, African American Studies, scholars and learners'
 permalink: /undergraduate/
 layout: page
@@ -49,7 +50,7 @@ Our curriculum stresses critical thinking, persuasive writing and problem solvin
 
 ## Minor in Africology and African American Studies
 
-Regardless of what your major is, a minor in African American studies adds an interdisciplinary depth to your main course of study. This minor allows students interested in business, the sciences, engineering, government and social services to present to prospective employers an exceptional academic background.
+Regardless of what your major is, a minor in African American studies adds an interdisciplinary depth to your main course of study. The minor allows students interested in business, the sciences, engineering, government and social services to present an exceptional academic background to prospective employers.
 
 [Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
