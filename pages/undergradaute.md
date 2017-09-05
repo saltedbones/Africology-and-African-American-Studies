@@ -46,7 +46,7 @@ meta-description: >-
 
 The Africology and African American Studies program at Temple University provides undergraduates with the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students are guided through scholarly reflection by leaders in the field.
 
-Our curriculum stresses critical thinking, persuasive writing and problem solving skills. You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom walls. If you study at our department, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
+Our curriculum stresses critical thinking, persuasive writing and problem solving skills. Students who minor or major in African American Studies are prepared to take roles of effective agency, participation and leadership in their communities and professions.  You'll be exposed to Africana theory and encouraged to engage in research and service outside the classroom walls. If you study at our department, you'll join an energetic group of scholars and learners who seek to continue what began more than forty years ago.
 
 [Learn More about Majoring in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 
