@@ -1,9 +1,8 @@
 ---
 title: Undergraduate
-meta-description: >-
-  Critically examine and interpret the experiences, traditions and dynamics of
-  people of African descent
-meta-keywords: 'Africology, African American Studies, scholars and learners'
+meta-keywords: >-
+  Major in African American Studies, Black Studies, BA in African American
+  Studies
 permalink: /undergraduate/
 layout: page
 published: true
@@ -38,6 +37,9 @@ sidebar-content: |
    808 Gladfelter Hall    
    [(215) 204-8491](tel:2152048491)   
    [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
+meta-description: >-
+  Critically examine and interpret the experiences, traditions and dynamics of
+  people of African descent
 ---
 
 ## Bachelor of Arts in Africology and African American Studies
