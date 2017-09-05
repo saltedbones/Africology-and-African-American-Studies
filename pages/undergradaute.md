@@ -62,9 +62,9 @@ Like Temple Owls, AAAS majors and minors are everywhere! An undergraduate degree
 
 To read more about what our graduates are accompishing read more here. (LINK)
 
-## Undergraduate Advising
+## Academic Advising and Professional Development
 
-The Center for Academic Advising and Professional Development counsels students on both classroom and career issues. Advisers help undergraduate students navigate their curriculums, choose a major or minor, explore career opportunities and determine post-graduation plans.
+Our award-winning advising staff helps students take full advantage of the College of Liberal Art's flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities. 
 
 [Learn More](https://liberalarts.temple.edu/advising)
 
