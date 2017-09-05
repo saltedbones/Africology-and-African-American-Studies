@@ -7,9 +7,10 @@ layout: home
 feature: true
 feature-title: First in Our Field
 feature-body: >-
-  Our department emerged during the Black Power movement, when black students
-  demanded a Black Studies department to combat racism, discrimination, and
-  oppression.
+  I was able to reach out to any of the professors and students ion my
+  department for guidance and hgelp. Each professor encouraged me to dare to be
+  different and encouraged me to excel regardless of circumstances. - NeShae
+  Williams, CLA Class of 2014
 feature-image: media/hero_bg@3x.png
 published: true
 ---
