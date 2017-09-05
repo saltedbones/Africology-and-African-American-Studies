@@ -71,8 +71,8 @@ Studying abroad in Ghana gives graduate students in African American Studies to 
 
 Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships and scholarships on a highly competitive basis. The awards usually involve teaching or assisting one or more faculty with instructional duties. 
 
--[Student Financial Services](https://sfs.temple.edu/financial-aid-types/scholarships/study-abroad)
--Scholarships at the Department of Africology and African American Studies (Needs Page to be Built and Linked to)
+- [Student Financial Services](https://sfs.temple.edu/financial-aid-types/scholarships/study-abroad)
+- Scholarships at the Department of Africology and African American Studies (Needs Page to be Built and Linked to)
 
 ## Academic Advising
 
