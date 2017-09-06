@@ -5,7 +5,7 @@ meta-keywords: 'African American Studies, Black Studies, Temple University'
 permalink: /
 layout: home
 feature: true
-feature-title: First in Our Field
+feature-title: Encouraged to Excel
 feature-body: >-
   I was able to reach out to any of the professors and students ion my
   department for guidance and hgelp. Each professor encouraged me to dare to be
