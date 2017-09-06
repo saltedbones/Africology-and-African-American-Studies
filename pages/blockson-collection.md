@@ -13,7 +13,7 @@ published: true
 
 Among the largest collections of items relating to Black culture and history, The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience dating from 1581 to the present. Located in Sullivan Hall, the extensive catalog is the first to be published by a major university. The Blockson Collection demonstrates that Black history is valuable, and offers students a rare opportunity to learn about it firsthand. As an African American Studies student, you'll have the opportunity to access the research facility to enhance your acedemic research and coursework.
 
-## History of the Charles L. Blockson Afro-American Collection
+## History of the Blockson Collection
 
 Accumulated by historian and author Charles L. Blockson, the Blockson Collection contains materials on the global Black experience in all formats: rare books; pamphlets; newsletters; busts and statues; photographs; posters; sheet music and oral histories. 
 
@@ -41,13 +41,14 @@ One of Mr. Blockson’s proudest achievements was getting a state historical mar
 
 ## Location and Hours (put in a box)
 
-**Sullivan Hall, 1st Floor
-1330 Polett Walk
-Philadelphia, PA 19122
-Monday through Friday, 9:00am to 5:00pm
-Phone: 215-204-6632
-Fax: 215-204-5197**
+**Sullivan Hall, 1st Floor <br>
+1330 Polett Walk <br>
+Philadelphia, PA 19122 <br>
+Monday through Friday, 9:00am to 5:00pm <br>
+Phone: 215-204-6632 <br>
+Fax: 215-204-5197** <br>
 
-http://library.temple.edu/collections/blockson/
+### [Learn More About the Charles L. Blockson Afro-American Collection](http://library.temple.edu/collections/blockson/)
+
 
 
