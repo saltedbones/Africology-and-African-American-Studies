@@ -9,9 +9,9 @@ published: true
 
 ![Charles Blockson in his Charles  L. Blockson Afro-American Collection at Temple University]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
 
-Among the largest collections of items relating to Black culture and history, The Charles L. Blockson Afro-American Collection at Temple University in Philadelphia houses over 500,000 items on the global Black experience dating from 1581 to the present. Located in Sullivan Hall, the extensive catalog is the first to be published by a major university. The Blockson Collection demonstrates that Black history is valuable, and offers students a rare opportunity to learn about this history firsthand. As an African American Studies student, you'll have the opportunity to access the research facility to enhance your acedemic research throughout your time at Temple. 
+> “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it,” - Charles L. Blockson, Charles L. Blockson Afro-American Collection
 
-> “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it,” stated Charles L. Blockson, curator of the extensive collections in African-Amercana. "Scholars from all over the world, indeed, anyone who is interested in the rich cultural heritage of African-Americans, will welcome this long-awaited and much-needed resource.”
+Among the largest collections of items relating to Black culture and history, The Charles L. Blockson Afro-American Collection at Temple University in Philadelphia houses over 500,000 items on the global Black experience dating from 1581 to the present. Located in Sullivan Hall, the extensive catalog is the first to be published by a major university. The Blockson Collection demonstrates that Black history is valuable, and offers students a rare opportunity to learn about this history firsthand. As an African American Studies student, you'll have the opportunity to access the research facility to enhance your acedemic research throughout your time at Temple. 
 
 ## African American History and Culture
 
