@@ -39,7 +39,8 @@ When you are ready to apply, submit your application online at [admissions.templ
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study In Ghana"
     content=" Ipslem Lorum "
-    image=""
+    image="![Study Abroad in Ghana ]({{site.baseurl}}/media/Niambi_Carter_Kakum 2-SS14.jpg)
+"
     button-link="https://studyabroad.temple.edu/"
     button-text="Learn More" %}
   </div>
