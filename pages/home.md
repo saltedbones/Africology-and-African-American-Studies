@@ -6,7 +6,7 @@ permalink: /
 layout: home
 feature: true
 feature-title: Encouraged to Excel
-feature-body: "I was able to reach out to any of the professors and students in my department for guidance and help. Each professor encouraged me to dare to be different and encouraged me to excel regardless of circumstances. <br> - NeShae Williams, <br>\n\tCLA Class of 2014"
+feature-body: "I was able to reach out to any of the professors and students in my department for guidance and help. Each professor encouraged me to dare to be different and encouraged me to excel regardless of circumstances. <br> - NeShae Williams, <br>\n\tCLA Class of '14"
 feature-image: media/hero_bg@3x.png
 published: true
 ---
