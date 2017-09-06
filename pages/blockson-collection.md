@@ -15,7 +15,7 @@ Among the largest collections of items relating to Black culture and history, Th
 
 ## History of the Blockson Collection
 
-Accumulated by historian and author Charles L. Blockson, the Blockson Collection contains materials on the global Black experience in all formats: rare books; pamphlets; newsletters; busts and statues; photographs; posters; sheet music and oral histories. 
+Accumulated by historian and author Charles L. Blockson, the Blockson Collection contains materials on the global Black experience in all formats: rare books; pamphlets; newsletters; busts and statues; photographs; posters; sheet music and oral histories. The Collection's rare books section is particularly strong in its first editions, as well as its holdings in African, African-American and African-Caribbean publications dating back to the sixteenth century.
 
 Blockson's collection specifically includes:
 
