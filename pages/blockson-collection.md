@@ -30,9 +30,11 @@ Donated in 1984, Mr. Blockson chose Temple University to house his collection be
 
 Charles L. Blockson began collecting artifacts documenting the story of African Americans at age nine. He began collecting in fifth grade after a startling classroom conversation about American history.
 
-“I raised my hand and asked the teacher, ‘Did Negroes ever contribute to American history?’” Blockson told The Philadelphia Inquirer in 2013. “She said: ‘No, Charles. Negroes were born to serve white people.’”
+> “I raised my hand and asked the teacher, ‘Did Negroes ever contribute to American history?’” Blockson told The Philadelphia Inquirer in 2013. “She said: ‘No, Charles. Negroes were born to serve white people.’”
 
-The incident set Mr. Blockson on the path of historical collection that he has followed for the past seven decades. His journey to document African American history and culture has put him in touch with Malcolm X; Rosa Parks; arian Anderson;Paul Robeson and Langston Hughs. The historian and scholar is the author of 13 books, including 2 on the Underground Railroad, which is an expert on. One of Mr. Blockson’s proudest achievements was getting a state historical marker placed at Penn’s Landing in Philadelphia near Independence Seaport Museum that recognizes Pennsylvania’s role in the slave trade. The marker was unveiled in August 2016.
+The incident set Mr. Blockson on the path of historical collection that he has followed for the past seven decades. His journey to document African American history and culture has put him in touch with Malcolm X; Rosa Parks; arian Anderson;Paul Robeson and Langston Hughs. The historian and scholar is the author of 13 books, including 2 on the Underground Railroad, which is an expert on. 
+
+One of Mr. Blockson’s proudest achievements was getting a state historical marker placed at Penn’s Landing in Philadelphia near Independence Seaport Museum that recognizes Pennsylvania’s role in the slave trade. The marker was unveiled in August 2016.
 
 ![Charles L. Blockson spearheaded the effort to have a historical marker placed along the Delaware River to commemorate the lives of enslaved Africans brought to Delaware Valley ports during the Pennsylvania slave trade.]({{site.baseurl}}/media/cpotja1xyaarbj2_938x528.jpg)
 
