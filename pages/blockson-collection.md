@@ -19,10 +19,10 @@ Accumulated by historian and author Charles L. Blockson, the Blockson Collection
 
 Blockson's collection specifically includes:
 
--First-edition works of Phyllis Wheatley and W.E.B. DuBois
--Narratives by Sojourner Truth and Frederick Douglass
--Assorted correspondence of Haitian Revolutionaries
--Paul Robeson's sheet music
+- First-edition works of Phyllis Wheatley and W.E.B. DuBois
+- Narratives by Sojourner Truth and Frederick Douglass
+- Assorted correspondence of Haitian Revolutionaries
+- Paul Robeson's sheet music
 
 Donated in 1984, Mr. Blockson chose Temple University to house his collection because of our diverse student body and location in the heart of the African American community in North Philadelphia. The bibliophile, author and historian has a special connection to the city, based on his ancestral connection with the Underground Railroad. 
 
@@ -39,12 +39,12 @@ The incident set Mr. Blockson on the path of historical collection that he has f
 
 ## Location and Hours (put in a box)
 
-Sullivan Hall, 1st Floor
+**Sullivan Hall, 1st Floor
 1330 Polett Walk
 Philadelphia, PA 19122
 Monday through Friday, 9:00am to 5:00pm
 Phone: 215-204-6632
-Fax: 215-204-5197
+Fax: 215-204-5197**
 
 http://library.temple.edu/collections/blockson/
 
