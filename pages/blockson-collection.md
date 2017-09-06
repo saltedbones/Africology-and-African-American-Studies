@@ -48,7 +48,7 @@ Monday through Friday, 9:00am to 5:00pm <br>
 Phone: 215-204-6632 <br>
 Fax: 215-204-5197** <br>
 
-### [Learn More About the Charles L. Blockson Afro-American Collection](http://library.temple.edu/collections/blockson/)
+## [Learn More About the Charles L. Blockson Afro-American Collection](http://library.temple.edu/collections/blockson/)
 
 
 
