@@ -58,8 +58,6 @@ Regardless of what your major is, a minor in African American studies adds an in
 
 ## Is a BA or Minor in African American Studies Valuable?
 
-A BA in African American Studies is a solid liberal arts degree that prepares studes to graduate with the skills employers in every industry value
-
 Like Temple Owls, AAAS majors and minors are everywhere! An undergraduate degree in Africology and African American Studies prepares students for graduate work in the humanities, social sciences and for professional schools. Alumni of the African American Studies program work in education, social work, research, law enforcement, city government and have also worked with museums and other cultural and artistic institutions.
 
 To read more about what our graduates are accompishing read more here. (LINK)
