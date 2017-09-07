@@ -6,13 +6,13 @@ permalink: /
 layout: home
 feature: true
 feature-title: Encouraged to Excel
+feature-image: 
+published: 
 feature-body: >-
   I was able to reach out to any of the professors and  students in my
-  department for guidance and help. Each professor encouraged  me to dare to be
-  different and encouraged me to excel regardless of circumstances.  - NeShae
+  department for guidance and help. Each professor encouraged me to dare to be
+  different and encouraged me to excel regardless of circumstances. - NeShae
   Williams, CLA Class of '14
-feature-image: media/hero_bg@3x.png
-published: true
 ---
 ## African American Studies at Temple
 
@@ -32,8 +32,6 @@ Temple’s Department of Africology and African American Studies is one of the o
 ## Apply
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
-
-
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
