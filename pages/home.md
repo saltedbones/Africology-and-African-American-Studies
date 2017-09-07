@@ -6,7 +6,7 @@ permalink: /
 layout: home
 feature: true
 feature-title: Encouraged to Excel
-feature-image: 
+feature-image: null
 published: true
 feature-body: >-
   I was able to reach out to any of the professors and  students in my
@@ -43,7 +43,7 @@ When you are ready to apply, submit your application online at [admissions.templ
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Apply "
+      title="Apply"
       content=" "
       image=""
       button-link=" "
