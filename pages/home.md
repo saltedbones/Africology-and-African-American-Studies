@@ -7,7 +7,7 @@ layout: home
 feature: true
 feature-title: Encouraged to Excel
 feature-image: 
-published: 
+published: true
 feature-body: >-
   I was able to reach out to any of the professors and  students in my
   department for guidance and help. Each professor encouraged me to dare to be
