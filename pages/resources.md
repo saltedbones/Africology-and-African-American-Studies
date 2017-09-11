@@ -10,15 +10,29 @@ published: true
 
 ### Charles L. Blockson Collection
 
-Accumulated by historian and author Charles L. Blockson, the Blockson Collection contains materials on the global Black experience in all formats: rare books; pamphlets; newsletters; busts and statues; photographs; posters; sheet music and oral histories. The collection is one of the biggest collection of artifacts relating to Black history and culture in the United States. 
+The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience dating from 1581 to the present. Located in Sullivan Hall, the extensive catalog is the first to be published by a major university. Donated in 1984, Mr. Blockson chose Temple University to house his collection because of our diverse student body and location in the heart of the African American community in North Philadelphia.
 
 ### Journal of Black Studies
 
-Our department is the home to the Journal of Black Studies, the most prestigious journal in the discipline of African American Studies. The leading source for innovative and creative research on the Black experience, the journal is published six times per year. Africology and African American Studies Students have the opportunity to work with the journal alongside our faculty.
+Our department is the home to the Journal of Black Studies, the most prestigious journal in the discipline of African American Studies. The leading source for innovative and creative research on the Black experience, the journal is published six times per year. Africology and African American Studies Students have the opportunity to work with the journal alongside our distinguished faculty members.
 
 ### The Encyclopedia of Black Studies
 
 Two of Temple’s faculty members, Molefi Kete Asante and Ama Mazama, edited the Encyclopedia of Black Studies. The encyclopedia is leading reference source for dynamic and innovative research on the Black experience. The concept for the encyclopedia was developed from the successful Journal of Black Studies and contains a full analysis of the economic, political, sociological, historical, literary and philosophical issues related to Americans of African descent. 
+
+[Learn More](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
+
+### Study Abroad in Ghana
+
+If you join our department, the opportunity to study abroad in Ghana is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of Accra, all while adding new depth to your Africology and African American Studies research. 
+
+### Financial Aid and Scholarships
+
+Deciding how to pay for your education is a major financial decision. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. 
+
+The department also offers a limited number of assistantships for graduate students on a highly competitive basis. These awards usually involve teaching; teaching assistants receive a stipend and full tuition remission up to 9 credits. African American Studies students with outstanding academic records are also eligible for other awards and scholarships. Student Financial Services has more information. 
+
+[Learn More About Paying for Your Education](https://sfs.temple.edu/node/116)
 
 ### Undergraduate Resources:
 
@@ -33,25 +47,5 @@ Two of Temple’s faculty members, Molefi Kete Asante and Ama Mazama, edited the
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
-
-### Study Abroad in Ghana
-
-If you join our department, the opportunity to study abroad in Ghana is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of Accra, all while adding new depth to your Africology and African American Studies research. 
-
-[Learn More](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
-
-### Financial Aid and Scholarships
-
-Deciding how to pay for your BA, MA or PhD is a major financial decision. Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships for graduate students on a highly competitive basis. These awards usually involve teaching; teaching assistants receive a stipend and full tuition remission up to 9 credits. 
-
-Africology and African American Studies students with outstanding academic records are also eligible for the awards listed below. 
-
-- **Frances Ellen Watkins Harper Award:** This award is given to the undergraduate or graduate student in African American Studies who best represents our department’s commitment to community and public action. The recipient of this award demonstrates excellent work in the urban community assisting low-income children achieve their highest goals. 
-- **James L. Conyers Award:** This award is given to three students whose academic papers have been accepted for presentation at national or international conferences in the discipline. 
-- **Adeniyi Coker Award:** Dr. Adeniyi Coker, the first student to graduate with a PhD from our department, is an accomplished author, professor and distinguished Black Studies scholar. The student who receives this award demonstrates Pan African ideals in work and expression. 
-- **Molefi Kete Asante Award:** The Molefi Kete Asante Award, given in the name of our Department Chair, recognizes outstanding intellectual originality and boldness. The prize is given to a second or third year graduate student who best represents Afrocentric scholarship. 
-- **Octavio Cato Award:** The Cato Award is named for the famed African American leader in Philadelphia who best articulated the goals and objectives of the African American community in the 19th century. Our department strives to serve the interests of the surrounding community, and so we recognize the student who demonstrates a profound dedication to political, social and economic innovation. 
-- **Stephen Couvillion Scholarship:** Named in the honor of a former graduate student this award is made to the Masters student who shows unusual initiative and direction in research and scholarship. Given to the student that has best satisfied the demands of the award the Couvillion Award represents one of the highest awards given in the department.
-
 
 
