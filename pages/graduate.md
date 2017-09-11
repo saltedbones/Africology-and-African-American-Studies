@@ -53,20 +53,19 @@ Our faculty edits the top journal in our discipline, the Journal of Black Studie
 
 Temple is the first University that offer a PhD program in African American Studies. The program reflects a deep commitment to the self-directed study of African peoples; Our courses and programs give students the opportunity to explore a variety of academic experiences from the standpoint of African agency. Our students are prepared for university teaching and scholarly research and have excellent employment track records.  
 
+**Application Deadline:**
+Fall: January 15
+
 [Learn More about the PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
 ## MA in African American Studies
 
 The MA in African American Studies is designed to teach students about fundamental theoretical and practical issues confronting African people trans-continentally and trans-generationally. The MA program seeks to answer personal and intellectual aspirations of students that are not satisfied by a BA degree in African American Studies. An MA in African American Studies often serves as a basis for a PhD in African American Studies or in an affiliated field.
 
+**Application Deadline:**
+Fall: January 15
+
 [Learn More about the MA in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
-
-## Awards and Scholarships
-
-Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships and scholarships on a highly competitive basis. The awards usually involve teaching or assisting one or more faculty with instructional duties. 
-
-- [Student Financial Services](https://sfs.temple.edu/financial-aid-types/scholarships/study-abroad)
-- Scholarships at the Department of Africology and African American Studies (Needs Page to be Built and Linked to)
 
 ## Academic Advising
 
@@ -88,6 +87,6 @@ Possible concentrations include:
 
 ## Admissions Process
 
-Admission requirements to the MA and PhD programs in African American Studies follows the general requirements established by the Graduate School at Temple University. 
+Admission requirements to the MA and PhD programs in African American Studies follows the general requirements established by the Graduate School at Temple University.
 
 [Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
