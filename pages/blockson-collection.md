@@ -28,7 +28,7 @@ Donated in 1984, Mr. Blockson chose Temple University to house his collection be
 
 ## Charles L. Blockson
 
-![The Charles L. Blockson Collection at Temple University]({{site.baseurl}}/media/maxresdefault.jpg)
+<div align="center">![Blockson Collection of African American History at Temple University ]({{site.baseurl}}/media/blockson_collection.jpg)</div>
 
 Charles L. Blockson began collecting artifacts documenting the story of African Americans at age nine. He began collecting in fifth grade after a startling classroom conversation about American history.
 
