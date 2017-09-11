@@ -15,21 +15,21 @@ published: true
 
 ### Charles L. Blockson Collection
 
-The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience dating from 1581 to the present. Located in Sullivan Hall, the extensive catalog is the first to be published by a major university. Donated in 1984, Mr. Blockson chose Temple University to house his collection because of our diverse student body and location in the heart of the African American community in North Philadelphia.
+The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience. Dating from 1581 to the present, the extensive catalog is the first of its kind published by a major university. Mr. Blockson chose Temple University to house his collection because of our diverse student body and our location in the heart of the African American community in North Philadelphia.
 
 ### Journal of Black Studies
 
-Our department is the home to the Journal of Black Studies, the most prestigious journal in the discipline of African American Studies. The leading source for innovative and creative research on the Black experience, the journal is published six times per year. Africology and African American Studies Students have the opportunity to work with the journal alongside our distinguished faculty members.
+Our department is the home to the Journal of Black Studies, the most prestigious in the discipline of African American Studies. A leading source for innovative and creative research on the Black experience, the journal is published six times a year. Africology and African American Studies Students can work with the journal alongside our distinguished faculty members. 
 
 ### The Encyclopedia of Black Studies
 
-Two of Temple’s faculty members, Molefi Kete Asante and Ama Mazama, edited the Encyclopedia of Black Studies. The encyclopedia is leading reference source for dynamic and innovative research on the Black experience. The concept for the encyclopedia was developed from the successful Journal of Black Studies and contains a full analysis of the economic, political, sociological, historical, literary and philosophical issues related to Americans of African descent. 
-
-[Learn More](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
+Two of Temple’s faculty members, Molefi Kete Asante and Ama Mazama, edited the Encyclopedia of Black Studies. The encyclopedia is the leading reference source for dynamic and innovative research on the Black experience. The concept for the encyclopedia was developed from the successful Journal of Black Studies and contains a full analysis of the economic, political, sociological, historical, literary and philosophical issues related to Americans of African descent. 
 
 ### Study Abroad in Ghana
 
-If you join our department, the opportunity to study abroad in Ghana is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of Accra, all while adding new depth to your Africology and African American Studies research. 
+If you join our department, taking advantage of our study abroad in Ghana program is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of Ghana's capital, all while adding depth to your Africology and African American Studies research. 
+
+[Learn More about Studying Abroad](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
 
 ### Financial Aid and Scholarships
 
@@ -42,6 +42,7 @@ The department also offers a limited number of assistantships for graduate stude
 ### Undergraduate Resources:
 
 - [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
+- [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
 - [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
 - [Financing your Education](http://sfs.temple.edu/)
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
@@ -52,5 +53,3 @@ The department also offers a limited number of assistantships for graduate stude
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
-
-
