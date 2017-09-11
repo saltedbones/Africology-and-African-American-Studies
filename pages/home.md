@@ -51,10 +51,9 @@ When you are ready to apply, submit your application online at [admissions.templ
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="Career Center "
+        title="The Blockson Collection"
         content="The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience dating from 1581 to the present."
-        image="media/maxresdefault.jpg)
-"
+        image=""
         button-link="http://www.temple.edu/provost/careercenter/"
         button-text="Learn More" %}
       </div>
