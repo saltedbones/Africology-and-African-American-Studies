@@ -51,19 +51,13 @@ Our faculty edits the top journal in our discipline, the Journal of Black Studie
 
 ## PhD in African American Studies
 
-Temple is the first University that offer a PhD program in African American Studies. The program reflects a deep commitment to the self-directed study of African peoples; Our courses and programs give students the opportunity to explore a variety of academic experiences from the standpoint of African agency. Our students are prepared for university teaching and scholarly research and have excellent employment track records.  
-
-**Application Deadline:**
-Fall: January 15
+Temple is the first University that offer a PhD program in African American Studies. The program reflects a deep commitment to the self-directed study of African peoples; Our courses and programs give students the opportunity to explore a variety of academic experiences from the standpoint of African agency. Our students are prepared for university teaching and scholarly research and have excellent employment track records. 
 
 [Learn More about the PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
 ## MA in African American Studies
 
 The MA in African American Studies is designed to teach students about fundamental theoretical and practical issues confronting African people trans-continentally and trans-generationally. The MA program seeks to answer personal and intellectual aspirations of students that are not satisfied by a BA degree in African American Studies. An MA in African American Studies often serves as a basis for a PhD in African American Studies or in an affiliated field.
-
-**Application Deadline:**
-Fall: January 15
 
 [Learn More about the MA in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
 
@@ -87,12 +81,16 @@ Possible concentrations include:
 
 ## Financial Aid and Scholarships
 
-If you need help paying for graduate school at Temple, you aren’t alone. Most students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department also offers a limited number of assistantships for graduate students on a highly competitive basis. These awards usually involve teaching; teaching assistants receive a stipend and full tuition remission up to 9 credits. Learn more about getting financial aid at the Student Financial Services. 
+If you need help paying for graduate school at Temple, you aren’t alone. Most students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department also offers a limited number of assistantships and other merit-based scholarships for graduate students on a highly competitive basis. Learn more about getting financial aid at the Student Financial Services. 
 
 [Learn More About Paying for Your Graduate School at Temple](http://www.temple.edu/grad/finances/)
+[Department of Africology and African American Studies Scholarships](https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
 
 ## Admissions Process
 
-Admission requirements to the MA and PhD programs in African American Studies follows the general requirements established by the Graduate School at Temple University.
+Admission requirements to the MA and PhD programs in African American Studies follows the general requirements established by the Graduate School at Temple University. The deadline for the MA and PhD program is the same.
 
-[Submit Your Application Online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon)
+**Application Deadline:**
+Fall: January 15
+
+[Submit Your Application Online](http://www.temple.edu/grad/admissions/howtoapply.htm)
