@@ -5,7 +5,7 @@ meta-description: >-
   faculty edits the prestigious Journal of Black Studies.
 meta-keywords: >-
   phd in african american studies, ma in african american studies, graduate
-  program in african american studies 
+  program in african american studies, temple graduate school
 permalink: /graduate/
 layout: page
 published: true
