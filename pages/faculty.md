@@ -8,4 +8,4 @@ meta-description: >-
 meta-keywords: 'faculty, research'
 published: true
 ---
-We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation. 
+We are known for our innovation, energy and influence in Black Studies. Our professors have published more books than any other Department of African American Studies in the nation.
