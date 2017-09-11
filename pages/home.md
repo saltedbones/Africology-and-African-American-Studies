@@ -36,15 +36,15 @@ When you are ready to apply, submit your application online at [admissions.templ
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="Study In Ghana"
-    content="Based at the University of Ghana in Accra, our study abroad in Ghana is an incredible way to enhance your Africology and African American Studies program. Investigate the historical and cultural aspects of West African civilization through first-hand experience."
+    content="Based at the University of Ghana in Accra, our study abroad in Ghana is an incredible way to enhance your Africology and African American Studies program. Investigate West African civilization through first-hand experience."
     image="media/Niambi_Carter_Kakum 2-SS14.jpg"
-    button-link="https://studyabroad.temple.edu/"
+    button-link="https://studyabroad.temple.edu/sites/temple-summer-in-ghana"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html
-      title="Apply"
-      content=" "
+      title="Learn from Top Faculty"
+      content="We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation."
       image=""
       button-link=" "
       button-text="Learn More" %}
