@@ -7,7 +7,7 @@ published: true
 
 ## Special Collections - African American Studies at Temple University
 
-<div align="center">![Charles Blockson in his Charles L. Blockson Afro-American Collection at Temple University]({{site.baseurl}}/media/charles-blockson-540x400.jpg)</div>
+![Charles Blockson in his Charles L. Blockson Afro-American Collection at Temple University]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
 
 > “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it,” - Charles L. Blockson, Charles L. Blockson Afro-American Collection
 
@@ -28,7 +28,7 @@ Donated in 1984, Mr. Blockson chose Temple University to house his collection be
 
 ## Charles L. Blockson
 
-<div align="center">![Blockson Collection of African American History at Temple University ]({{site.baseurl}}/media/blockson_collection.jpg)</div>
+![Blockson Collection of African American History at Temple University ]({{site.baseurl}}/media/blockson_collection.jpg)
 
 Charles L. Blockson began collecting artifacts documenting the story of African Americans at age nine. He began collecting in fifth grade after a startling classroom conversation about American history.
 
