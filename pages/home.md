@@ -20,7 +20,7 @@ We attract and produce world-class scholars in Black Studies, and have more Afri
 
 ## First in Our Field
 
-Temple’s Department of Africology and African American Studies is one of the oldest of similar programs in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. If you join us, you'll join an energetic group of scholars who seek to continue what began more than forty years ago.
+If you join us, you'll join an energetic group of scholars who seek to continue what began more than forty years ago. Our Africology and African American Studies department is one of the oldest of similar programs in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. 
 
 ## Academic Offerings
 
