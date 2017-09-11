@@ -82,12 +82,6 @@ The MA in African American Studies is designed to teach students about fundament
 
 [Learn More about the MA in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
 
-## Study Abroad in Ghana
-
-If you join our department, the opportunity to study abroad in Ghana is an incredible way to enhance your MA or PhD program in Africology and African American Studies. Investigate the historical, literary, cultural and linguistic aspects of West African civilization through first-hand experience. Based at the University of Ghana in Accra, a vibrant coastal city and the capital of Ghana. Experience the warm culture and booming music scene, all while adding new depth to your Africology and African American Studies program. 
-
-[Learn More about Studying Abroad in Ghana](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
-
 ## Awards and Scholarships
 
 Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships and scholarships on a highly competitive basis. The awards usually involve teaching or assisting one or more faculty with instructional duties. 
