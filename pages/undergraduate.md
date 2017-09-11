@@ -62,12 +62,6 @@ Like Temple Owls, AAAS majors and minors are everywhere! An undergraduate degree
 
 To read more about what our graduates are accompishing read more here. (LINK)
 
-## Study Abroad in Ghana
-
-If you study abroad in Ghana, you'll gain first-hand experience and add new depth to your Africology and African American Studies program. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene, all while adding new depth to acedemic coursework and research. 
-
-[Learn More about Studying Abroad in Ghana](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
-
 ## Academic Advising and Professional Development
 
 Our award-winning advising staff helps students take full advantage of the College of Liberal Art's flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities. 
