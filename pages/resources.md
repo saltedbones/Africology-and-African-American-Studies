@@ -40,32 +40,18 @@ If you join our department, the opportunity to study abroad in Ghana is an incre
 
 [Learn More](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
 
-### Scholarships
+### Financial Aid and Scholarships
 
-The department offers a limited number of assistantships for graduate students on a highly competitive basis. These awards usually involve teaching; teaching assistants receive a stipend and full tuition remission up to 9 credits. Africology and African American Studies students with outstanding academic records are eligible for the awards listed below. 
+Deciding how to pay for your BA, MA or PhD is a major financial decision. Most students receive some form of financial aid to help them pay for graduate school. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department offers a limited number of assistantships for graduate students on a highly competitive basis. These awards usually involve teaching; teaching assistants receive a stipend and full tuition remission up to 9 credits. 
 
-### Adeniyi Coker Award
+Africology and African American Studies students with outstanding academic records are also eligible for the awards listed below. 
 
-Dr. Adeniyi Coker, the first student to graduate with a PhD from our department, is an accomplished author, professor and distinguished Black Studies scholar. Dr. Coker is an Endowed Professor at the University of Missouri at St. Louis, has been the head of three African-American studies departments. The student who receives this award demonstratesd Pan African ideals in work and expression. 
+- **Frances Ellen Watkins Harper Award:** This award is given to the undergraduate or graduate student in African American Studies who best represents our department’s commitment to community and public action. The recipient of this award demonstrates excellent work in the urban community assisting low-income children achieve their highest goals. 
+- **James L. Conyers Award:** This award is given to three students whose academic papers have been accepted for presentation at national or international conferences in the discipline. 
+- **Adeniyi Coker Award:** Dr. Adeniyi Coker, the first student to graduate with a PhD from our department, is an accomplished author, professor and distinguished Black Studies scholar. The student who receives this award demonstrates Pan African ideals in work and expression. 
+- **Molefi Kete Asante Award:** The Molefi Kete Asante Award, given in the name of our Department Chair, recognizes outstanding intellectual originality and boldness. The prize is given to a second or third year graduate student who best represents Afrocentric scholarship. 
+- **Octavio Cato Award:** The Cato Award is named for the famed African American leader in Philadelphia who best articulated the goals and objectives of the African American community in the 19th century. Our department strives to serve the interests of the surrounding community, and so we recognize the student who demonstrates a profound dedication to political, social and economic innovation. 
+- **Stephen Couvillion Scholarship:** Named in the honor of a former graduate student this award is made to the Masters student who shows unusual initiative and direction in research and scholarship. Given to the student that has best satisfied the demands of the award the Couvillion Award represents one of the highest awards given in the department.
 
-### Molefi Kete Asante Award
-
-The Molefi Kete Asante Award, given in the name of our Department Chair, recognizes outstanding intellectual originality and boldness. The prize is given to a second or third year graduate student who best represents Afrocentric scholarship. 
-
-### Octavio Cato Award
-
-The Cato Award is named for the famed African American leader in Philadelphia who best articulated the goals and objectives of the African American community in the 19th century. Since our department has an unyielding desire to make the work of the university serve the interests of the community we recognize the student who demonstrates a profound dedication to political, social, and economic innovation.
-
-### Stephen Couvillion Scholarship
-
-Named in the honor of a former graduate student this award is made to the Masters student who shows unusual initiative and direction in research and scholarship. Given to the student that has best satisfied the demands of the award the Couvillion Award represents one of the highest awards given in the department.
-
-### Frances Ellen Watkins Harper Award
-
-This award is given to the undergraduate or graduate student in African American Studies who best represents the department’s commitment to community and public action. Based on the idea that education is a core value this award notes the student who seeks to work in the urban community in order to assist children in low-income areas to achieve their highest goals.
-
-### James L. Conyers Award
-
-This award is given to three students whose academic papers have been accepted for presentation at national or international conferences in the discipline.
 
 
