@@ -46,7 +46,7 @@ When you are ready to apply, submit your application online at [admissions.templ
       title="Learn from Top Faculty"
       content="We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation."
       image=""
-      button-link=" "
+      button-link="https://develop.cla.temple.edu/africology-and-african-american-studies/faculty/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
