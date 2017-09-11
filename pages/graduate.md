@@ -64,7 +64,7 @@ Areas of Specialization Include:
 - Popular Culture
 - Research Methods
 - Rhetoric and Composition
-- Social and Political Thought
+- Social and Political Thought 
 
 ## Get Involved in the Academic Community
 
