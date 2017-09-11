@@ -45,6 +45,27 @@ sidebar-content: |
 
 The Department of Africology and African American Studies provides graduate and doctoral level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent globally. We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation. Temple graduates have published more than 100 books, and lead more programs in African American Studies than graduates of any other program. 
 
+Areas of Specialization Include:
+
+- African and African American History
+- African and African American Literature
+- African American Drama
+- African American Psychology
+- African Civilizations
+- African Languages
+- Afrocentric Theory
+- Caribbean Culture
+- Cultural Studies
+- Ethnographic Methods
+- Gender, Sexuality and Women's Studies
+- Linguistics
+- Mass Media
+- Narrative Tradition
+- Popular Culture
+- Research Methods
+- Rhetoric and Composition
+- Social and Political Thought
+
 ## Get Involved in the Academic Community
 
 Our faculty edits the top journal in our discipline, the Journal of Black Studies, and faculty members participate in all the significant associations including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the Journal of Black Studies and participate in African American Studies conferences alongside us. 
@@ -63,7 +84,7 @@ The MA in African American Studies is designed to teach students about fundament
 
 ## Study Abroad in Ghana
 
-Studying abroad in Ghana gives graduate students in African American Studies to enhance their Temple University education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization through first-hand experience. Based at the University of Ghana in Accra, a vibrant coastal city and the capital of Ghana. Experience the warm culture and booming music scene, all while adding new depth to your Africology and African American Studies program. 
+If you join our department, the opportunity to study abroad in Ghana is an incredible way to enhance your MA or PhD program in Africology and African American Studies. Investigate the historical, literary, cultural and linguistic aspects of West African civilization through first-hand experience. Based at the University of Ghana in Accra, a vibrant coastal city and the capital of Ghana. Experience the warm culture and booming music scene, all while adding new depth to your Africology and African American Studies program. 
 
 [Learn More about Studying Abroad in Ghana](https://studyabroad.temple.edu/sites/temple-summer-in-ghana)
 
