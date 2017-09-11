@@ -7,7 +7,7 @@ published: true
 
 ## Special Collections - African American Studies at Temple University
 
-![Charles Blockson in his Charles  L. Blockson Afro-American Collection at Temple University]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
+<center>![Charles Blockson in his Charles  L. Blockson Afro-American Collection at Temple University]({{site.baseurl}}/media/charles-blockson-540x400.jpg)</center>
 
 > “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it,” - Charles L. Blockson, Charles L. Blockson Afro-American Collection
 
