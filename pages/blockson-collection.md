@@ -7,7 +7,7 @@ published: true
 
 ## Special Collections - African American Studies at Temple University
 
-![Charles Blockson in his Charles L. Blockson Afro-American Collection at Temple University]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
+![Blockson Collection of African American History at Temple University]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
 
 > “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it,” - Charles L. Blockson, Charles L. Blockson Afro-American Collection
 
@@ -17,7 +17,7 @@ Among the largest collections of items relating to Black culture and history, Th
 
 Accumulated by historian and author Charles L. Blockson, the Blockson Collection contains materials on the global Black experience in all formats: rare books; pamphlets; newsletters; busts and statues; photographs; posters; sheet music and oral histories. The Collection's rare books section is particularly strong in its first editions, as well as its holdings in African, African-American and African-Caribbean publications dating back to the sixteenth century.
 
-Blockson's collection specifically includes:
+Blockson's collection includes:
 
 - First-edition works of Phyllis Wheatley and W.E.B. DuBois
 - Narratives by Sojourner Truth and Frederick Douglass
@@ -28,7 +28,7 @@ Donated in 1984, Mr. Blockson chose Temple University to house his collection be
 
 ## Charles L. Blockson
 
-![Blockson Collection of African American History at Temple University ]({{site.baseurl}}/media/blockson_collection.jpg)
+![The Charles L. Blockson Collection at Temple University is one of the largest collections of items related to Black history in America. ]({{site.baseurl}}/media/blockson_collection.jpg)
 
 Charles L. Blockson began collecting artifacts documenting the story of African Americans at age nine. He began collecting in fifth grade after a startling classroom conversation about American history.
 
