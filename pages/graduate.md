@@ -43,7 +43,7 @@ sidebar-content: |
 ---
 ## Earn an MA or PhD in African American Studies
 
-The Department of Africology and African American Studies provides graduate and doctoral level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent globally. We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation. Temple graduates have published more than 100 books, and lead more programs in African American Studies than graduates of any other program. 
+The Department of Africology and African American Studies provides graduate and doctoral level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent globally. We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation. Temple graduates have published more than 100 books, and lead more programs in African American Studies than graduates of any other similar program. 
 
 ## Get Involved in the Academic Community
 
@@ -79,16 +79,16 @@ Possible concentrations include:
 - Ethnographic Methods
 - Gender, Sexuality and Women's Studies
 
-## Financial Aid and Scholarships
+## Financial Aid and Scholarships for Graduate School
 
-If you need help paying for graduate school at Temple, you aren’t alone. Most students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. The department also offers a limited number of assistantships and other merit-based scholarships for graduate students on a highly competitive basis. Learn more about getting financial aid at the Student Financial Services. 
+Graduate students are eligible for financial assistance from federal, state, private and university sources. We encourage you to explore all of the opportunities available and apply early to make your education an affordable experience. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Our department also offers a limited number of assistantships and merit-based scholarships for graduate students on a highly competitive basis. An assistantship provides some or all of the funding needed for grad school while the you are working for Temple University in some capacity.  
 
-- [Learn More About Paying for Your Graduate School at Temple](http://www.temple.edu/grad/finances/)
+- [Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
 - [Department of Africology and African American Studies Scholarships](https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
 
 ## Admissions Process
 
-Admission requirements to the MA and PhD programs in African American Studies follows the general requirements established by the Graduate School at Temple University. The deadline for the MA and PhD program is the same.
+Admission requirements to the MA and PhD programs in Africology and African American Studies follows the general requirements established by Temple University. The deadline for the MA and PhD program is the same. 
 
 **Application Deadline:**
 Fall Semester: January 15
