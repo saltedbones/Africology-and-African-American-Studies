@@ -4,6 +4,7 @@ permalink: /blockson-collection/
 layout: page
 published: true
 meta-keywords: null
+meta-description: ''
 ---
 
 ## Special Collections - African American Studies at Temple University
