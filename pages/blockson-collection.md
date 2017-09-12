@@ -8,9 +8,9 @@ meta-keywords: null
 
 ## Special Collections - African American Studies at Temple University
 
-![Blockson Collection of African American History at Temple University]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
-
 > “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it” - Charles L. Blockson
+
+![The Charles L. Blockson Collection at Temple University is one of the largest collections of items related to Black history in America. ]({{site.baseurl}}/media/blockson_collection.jpg)
 
 Founded by Charles Blockson, the Blockson Collection is one of the most prestigious collections of African American artifacts in the United States. The Charles L. Blockson Afro-American Collection at Temmple houses over 500,000 items relating to the global Black experience. Located in Sullivan Hall, the extensive catalog dates from 1581 to the present. African American Studies students are provided with an excellent opportunity to enhance their academic research by making use of the collection. Mr. Blockson donated his collection to Temple in 1984 because of our diverse student body and our location in the heart of the African American community in North Philadelphia. 
 
@@ -24,7 +24,7 @@ The Blockson Collection includes, but is not limited to:
 
 ## Charles L. Blockson
 
-![The Charles L. Blockson Collection at Temple University is one of the largest collections of items related to Black history in America. ]({{site.baseurl}}/media/blockson_collection.jpg)
+![charles-blockson-540x400.jpg]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
 
 From his early childhood in nearby Norristown PA, Charles L. Blockson accumulated a stellar collection of rare materials documenting the story of African Americans. The historian and scholar is the author of 13 books, including 2 on the Underground Railroad, which he is an expert on. One of Mr. Blockson’s proudest achievements is getting a state historical marker placed at Penn’s Landing in Philadelphia. Unveiled in August 2016, the marker recognizes Pennsylvania’s role in the slave trade.
 
