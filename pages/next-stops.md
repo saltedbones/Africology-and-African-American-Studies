@@ -52,7 +52,7 @@ Some Job Titles and Careers Available for AAAS Graduates Include:
 The Department of African American Studies supervises the Temple in Ghana program, which allows students to study for six weeks during the summer at the University of Ghana in Accra. Learn more about the [Temple in Ghana program](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html) by visiting the program’s web site.The department has a limited number of work-study and regular student awards that might assist undergraduates in special circumstances.
 
 ## Make Your Declaration
-The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
+The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts. Temple University’s College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education within a premier urban, research university. 
 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](http://www.liberalarts.temple.edu).
 
@@ -64,13 +64,11 @@ The Office of Admissions offers tours daily. To register for a tour, please go t
 
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
 To learn more about transferring to Temple, please visit [temple.edu/transfer](http://admissions.temple.edu/transfer).
-​
+
 ## Apply
-​
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
-​
+
 ## Deadlines
-​
 - **February 1**: Freshman Application Deadline for Fall Semester
 - **March 1**: FAFSA Financial Aid Application Deadline
 - **November 1**: Transfer Deadline for Spring Semester
