@@ -2,82 +2,67 @@
 title: Next Stops
 meta-description: >-
   Training in African American Studies provides the foundation and tools needed to guide your personal and professional aspirations.
-meta-keywords: 'career paths, Ghana'
+meta-keywords: 'African American Studies, Black Studies, Jobs for African American Studies majors'
 permalink: /next-stops/
 layout: page
 published: true
 ---
+Like Temple Owls, AAAS graduates are everywhere. Training in African American Studies provides the foundation and tools needed not only to guide your personal and professional aspirations, but also to ensure success in an increasingly cross-cultural and inter-dependent world. Our graduates work in professional areas that include government, social work, international relations, education, non-profits and in cultural or artistic institutions. Many of our former doctoral students head African American Studies at major universities. Some of our former MA students have received their doctorates in other fields and from different universities and are now professors. 
 
-## Careers
+Africology and African American Studies students develop the following skills that are applicable to many careers:
+- Research skills
+- Strong verbal and written communication skills
+- The ability to analyze and think critically
+- An in-depth understanding of the African American or African experience
+- Knowledge of social and economic development issues
+- A solid understanding of cross-cultural and diversity issues
+- Ability to formulate clear and persuasive messages
 
-Students who major in African American Studies have gone into more than one hundred different career paths, including medicine, astronaut, zoo administrator, law, professor, mayor, foreign policy advisor, novelist, journalist, sociologist, historian, public relations, teacher, Internet security, registered nurse, librarian, public administrator, bank manager, and cultural analyst. Many majors continue to pursue graduate degrees in African American Studies at Temple or other universities with the objective of becoming teachers, researchers, or professors in African and African American Studies.
-
-Training in African American Studies provides the foundation and tools needed not only to guide your personal and professional aspirations, but also to ensure success in an increasingly cross-cultural and inter-dependent world. Various career opportunities are available at the local, state and federal government levels in policy studies, international relations, diplomatic service for majors in African American Studies In addition, students are provided skills to seek employment with non-profit organizations and public agencies.
-
-- Sample of Possible Occupations for Africana Studies Majors:
-- College Admissions Officer
-- Educational Consultant
-- Lobbyist
-- Advertising Executive
-- Employee Relations Specialist
-- Market Research Specialist
-- Anthropologist
-- Multicultural Educator
-- Archivist/Librarian
-- Foreign Service Officer
-- Museum Curator
-- Attorney
-- Government Agency Administrator
-- Non-Profit Administrator
-- Clergy
-- Historic Preservation Specialist
-- Peace Corps Worker
-- Community Advocate/Action Specialist
-- Historic Site Administrator
-- Politician
-- Conflict Management Specialist
+Some Job Titles and Careers Available for AAAS Graduates Include:
 - Human Resources Specialist
-- Professor
-- Consumer Advocate
-- Human Relations Officer
-- Psychologist
 - Corporate Trainer
-- International Relations Specialist
-- Public Administrator
-- Counselor
-- International Consultant
-- Public Information Officer
-- Cultural Affairs Officer
-- International Trade Specialist
-- Public Policy Specialist
 - Customer Relations Manager
-- Interpreter
+- Advertising Executive
+- Marketing Director
 - Public Relations Specialist
-- Customs/Immigration Officer
-- International Conference Planner
-- Teacher
-- Editor/Writer/Copy Writer
-- Journalist-Foreign Bureau
-- Travel Consultant
+- Criminal Justice Administrator
+- Community Liason
+- Child Welfare Worker
+- Social Work Administrator
+- Housing Coordinator
+- Journalist
+- Media Relations Specialist
+- Linguist/Interpreter
+- Copywriter
+- Digital Media Producer
+- High School Teacher
+- Administrator
+- Professor
+- College Administrator
+- Peace Corps Worker
+- Program Administrator
+- HIV/AIDS Activist
+- Development Director
+- Political Analyst
+- Urban Planner
+- Librarian/Archivist
 
 ## Internships/Opportunities
 
 The Department of African American Studies supervises the Temple in Ghana program, which allows students to study for six weeks during the summer at the University of Ghana in Accra. Learn more about the [Temple in Ghana program](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html) by visiting the program’s web site.The department has a limited number of work-study and regular student awards that might assist undergraduates in special circumstances.
 
 ## Make Your Declaration
-​
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
-​
+
 For a complete list of our academic offerings visit [liberalarts.temple.edu](http://www.liberalarts.temple.edu).
-​
+
 ## Visit Us!
-​
+
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://admissions.temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
-​
+
 ## Thinking Of Transferring?
-​
+
 The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
-​
 To learn more about transferring to Temple, please visit [temple.edu/transfer](http://admissions.temple.edu/transfer).
 ​
 ## Apply
