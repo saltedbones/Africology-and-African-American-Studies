@@ -56,12 +56,6 @@ Regardless of what your major is, a minor in African American studies adds an in
 
 [Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
-## Is a BA or Minor in African American Studies Valuable?
-
-Like Temple Owls, AAAS majors and minors are everywhere! An undergraduate degree in Africology and African American Studies prepares students for graduate work in the humanities, social sciences and for professional schools. Alumni of the African American Studies program work in education, social work, research, law enforcement, city government and have also worked with museums and other cultural and artistic institutions.
-
-To read more about what our graduates are accompishing read more here. (LINK)
-
 ## Academic Advising and Professional Development
 
 Our award-winning advising staff helps students take full advantage of the College of Liberal Art's flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities. 
