@@ -83,7 +83,9 @@ Possible concentrations include:
 
 ## Financial Aid and Scholarships for Graduate School
 
-Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Our department also offers a limited number of assistantships and merit-based scholarships for graduate students on a highly competitive basis. An assistantship provides some or all of the funding needed for grad school while you are working for Temple University in some capacity. Merit-based scholarships are awarded to students with exceptional achievements relating to African American Studies. 
+Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. 
+
+Our department also offers a limited number of assistantships and merit-based scholarships for graduate students on a highly competitive basis. An assistantship provides some or all of the funding needed for grad school while you are working for Temple University in some capacity. Merit-based scholarships are awarded to students with exceptional achievements relating to African American Studies. 
 
 - [Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
 - [Department of Africology and African American Studies Scholarships](https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
