@@ -3,6 +3,8 @@ title: Charles L. Blockson Afro-American Collection
 permalink: /blockson-collection/
 layout: page
 published: true
+meta-description: ''
+meta-keywords: null
 ---
 
 ## Special Collections - African American Studies at Temple University
