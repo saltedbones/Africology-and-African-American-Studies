@@ -47,9 +47,9 @@ Some Job Titles and Careers Available for AAAS Graduates Include:
 - Urban Planner
 - Librarian/Archivist
 
-## Internships/Opportunities
+## Go to Work Before You Graduate
 
-The Department of African American Studies supervises the Temple in Ghana program, which allows students to study for six weeks during the summer at the University of Ghana in Accra. Learn more about the [Temple in Ghana program](http://www.temple.edu/studyabroad/programs/summer/ghana/index.html) by visiting the program’s web site.The department has a limited number of work-study and regular student awards that might assist undergraduates in special circumstances.
+Did you know students who complete internships during their academic career have a significantly better chance of having a successful career in their field of study? In today's competitive job market, students with internship experience find jobs faster than those who don't have it. We assist our students in gaining valuable real-world experience with employers from the Philadelphia region and beyond.
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts. Temple University’s College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education within a premier urban, research university. 
