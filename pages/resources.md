@@ -14,11 +14,9 @@ published: true
 ## Department of Africology and African Studies Resources
 
 ### Charles L. Blockson Collection
-
 The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience. Dating from 1581 to the present, the extensive catalog is the first of its kind published by a major university. Mr. Blockson chose Temple University to house his collection because of our diverse student body and our location in the heart of the African American community in North Philadelphia.
 
 ### Study Abroad in Ghana
-
 If you join our department, taking advantage of our [study abroad in Ghana program](https://studyabroad.temple.edu/sites/temple-summer-in-ghana) is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of Ghana's capital, all while adding depth to your Africology and African American Studies research.
 
 ### Journal of Black Studies
