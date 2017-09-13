@@ -1,6 +1,6 @@
 ---
 title: home
-meta-description: We attract and produce world-class scholars in Black Studies. Our African American Studies courses emphasize  literature, history, art and social science. 
+meta-description: We attract and produce world-class scholars in Black Studies. Our African American Studies courses emphasize  literature, history, art and social science.
 meta-keywords: 'African American Studies, Black Studies, Temple University, Journal of Black Studies'
 permalink: /
 layout: home
@@ -16,11 +16,11 @@ feature-body: >-
 ---
 ### African American Studies at Temple
 
-We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast. Our faculty edits the Journal of Black Studies, the top peer-reviewed journal in our academic discipline. African American Studies is indisciplinary, and our courses emphasize a variety of subjects including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live - whether it be from America, the Carribbean, Europe, South America or Africa. Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency. 
+We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast. Our faculty edits the Journal of Black Studies, the top peer-reviewed journal in our academic discipline. African American Studies is indisciplinary, and our courses emphasize a variety of subjects including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live - whether it be from America, the Carribbean, Europe, South America or Africa. Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency.
 
 ### First in Our Field
 
-If you join us, you'll join an energetic group of scholars who seek to continue what began more than forty years ago. Our Africology and African American Studies department is one of the oldest of similar programs in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year. 
+If you join us, you'll join an energetic group of scholars who seek to continue what began more than forty years ago. Our Africology and African American Studies department is one of the oldest of similar programs in the nation, and we were the first to offer a doctoral program in our field. Our department emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year.
 
 ### Academic Offerings
 
@@ -46,7 +46,7 @@ When you are ready to apply, submit your application online at [admissions.templ
       title="Learn from Top Faculty"
       content="We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation."
       image=""
-      button-link="https://develop.cla.temple.edu/africology-and-african-american-studies/faculty/"
+      button-link="/africology-and-african-american-studies/faculty/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
