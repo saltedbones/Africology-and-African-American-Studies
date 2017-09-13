@@ -1,7 +1,7 @@
 ---
 title: home
-meta-description: Africology and African American Studies
-meta-keywords: 'African American Studies, Black Studies, Temple University'
+meta-description: We attract and produce world-class scholars in Black Studies. Our African American Studies courses emphasize  literature, history, art and social science. 
+meta-keywords: 'African American Studies, Black Studies, Temple University, Journal of Black Studies'
 permalink: /
 layout: home
 feature: true
@@ -12,11 +12,11 @@ feature-body: >-
   I was able to reach out to any of the professors and  students in my
   department for guidance and help. Each professor encouraged me to dare to be
   different and encouraged me to excel regardless of circumstances. - NeShae
-  Williams, CLA Class of '14
+  Williams, Class of '14
 ---
 ### African American Studies at Temple
 
-We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast. Our faculty edits the Journal of Black Studies, the top journal in our field. African American Studies is indisciplinary, and our courses emphasize a variety of subjects including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live - whether it be from America, the Carribbean, Europe, South America or Africa. Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency. 
+We attract and produce world-class scholars in Black Studies, and have more African American students than any other University in the Northeast. Our faculty edits the Journal of Black Studies, the top peer-reviewed journal in our academic discipline. African American Studies is indisciplinary, and our courses emphasize a variety of subjects including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live - whether it be from America, the Carribbean, Europe, South America or Africa. Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency. 
 
 ### First in Our Field
 
