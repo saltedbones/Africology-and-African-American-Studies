@@ -30,8 +30,7 @@ Some Job Titles and Careers Available for AAAS Graduates Include:
 - Criminal Justice Administrator
 - Community Liason
 - Child Welfare Worker
-- Social Work Administrator
-- Housing Coordinator
+- Social Worker
 - Journalist
 - Media Relations Specialist
 - Linguist/Interpreter
@@ -55,38 +54,18 @@ For a complete list of our academic offerings visit [liberalarts.temple.edu](htt
 ## Study Abroad Programs
 Temple students can study abroad in almost any country around the world through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; When you study abroad, you open yourself up to a world of new perspectives and enhance your academic coursework with real world experiences. Immersing yourself in a new culture equips you to learn how to interact with people from different backgrounds, and to develop a cross-cultural understanding of our globalized modern world.  
 
-Learn More about Studying Abroad
-
-## Undergraduate Resources
-
-### The Center for Academic Advising and Professional Development
-We’re Dedicated to Supporting Your Academic and Personal Success. Our talented advisors can help you explore options for academic majors, minors, clubs, internships and post-graduation career paths. We partner with alumni and employers to help you build a professional network. Many owls choose to pursue master's or doctorate programs after they have finished their undergraduate degree. If you're thinking of continuing on to graduate school, we recommend that you meet you with your advisor during your sophomore or junior year to plan your long-term goals. 
-
-[The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
-
-# Fly in Four
-Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time—or Temple will pay for your remaining course work. And graduating on time means your path to success starts sooner. For its part, Temple provides you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years. 
-
-- [Changing your major](http://www.temple.edu/studentaffairs/orientation/freshman-orientation/changing-your-major.asp)
-- [Graduation Application process](http://www.temple.edu/registrar/students/graduation)
-- [Undergraduate Funding](http://sfs.temple.edu/)
-- [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
-
-## Graduate Resources
-
-- [Graduate Handbook](http://www.cla.temple.edu/africanamericanstudies/files/2017/04/AAAS-Grad-Handbook-Revised-2017-18-Final.pdf)
-- [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
-- [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
-- [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
-- [Applying to Graduate School](http://www.temple.edu/grad/admissions/howtoapply.htm)
+[Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
 ## Visit Us!
 
-The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://admissions.temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
+To know what Temple is really about, you have to experience it firsthand. Our Main Campus is an energetic community of students, facult, and local culture. And the opportunities don't stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://admissions.temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day. 
+
+[Learn More](http://admissions.temple.edu/visit)
 
 ## Thinking Of Transferring?
 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
+Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student.  If you're thinking about transferring, consider attend a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) information session. Transfer Tuesday is a general information session about the transfer process and an overview of Temple University. 
+
 To learn more about transferring to Temple, please visit [temple.edu/transfer](http://admissions.temple.edu/transfer).
 
 ## Apply
