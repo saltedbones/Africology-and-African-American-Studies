@@ -10,7 +10,7 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-Like Temple Owls, AAAS graduates are everywhere. Training in African American Studies provides the foundation and tools needed not only to guide your personal and professional aspirations, but also to ensure success in an increasingly cross-cultural and inter-dependent world. Our graduates work in professional areas that include government, social work, international relations, education, non-profits and in cultural or artistic institutions. Many of our former doctoral students head African American Studies at major universities. Some of our former MA students have received their doctorates in other fields and from different universities and are now professors. 
+Like Temple Owls, AAAS graduates are everywhere. Training in African American Studies provides the foundation and tools needed not only to guide your personal and professional aspirations, but also to ensure success in an increasingly crosscultural and interdependent world. Our graduates work in professional areas that include government, social work, international relations, education, non-profits and in cultural or artistic institutions. Many of our former doctoral students head African American Studies at major universities. Some of our former MA students have received their doctorates in other fields and from different universities and are now professors. 
 
 Africology and African American Studies students develop the following skills that are applicable to many careers:
 - Research skills
@@ -52,7 +52,7 @@ The College of Liberal Arts has the largest selection of academic offerings at T
 [View Our Complete List of Academic Offerings](http://www.liberalarts.temple.edu)
 
 ## Study Abroad Programs
-Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; When you study abroad, you open yourself up to new perspectives and enhance your academic coursework with real world experiences. Immersing yourself in a new culture equips you with cross-cultural understanding about our globalized modern world. 
+Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; the decision to study abroad will change your life more than any other part of your college experience. This is your opportunity to live, study and intern in another country for college credit. Where will you go? 
 
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
