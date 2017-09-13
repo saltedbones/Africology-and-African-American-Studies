@@ -57,8 +57,7 @@ Temple students can study abroad in almost any country around the world through 
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
 ## Visit Us!
-
-To know what Temple is really about, you have to experience it firsthand. Our Main Campus is an energetic community of students, facult, and local culture. And the opportunities don't stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://admissions.temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day. 
+To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don't stop there. For Temple students, all of Philadelphia is a place to learn and branch out. The Office of Admissions offers tours daily. If you would like to experience the College of Liberal Arts firsthand, get in touch with us.
 
 [Learn More](http://admissions.temple.edu/visit)
 
