@@ -1,8 +1,10 @@
 ---
 title: Undergraduate
+meta-description: >-
+Earn your BA in African American Studies from Temple University. Study the culture of Africans and the African diaspora by leaders in Black Studies. 
 meta-keywords: >-
   Major in African American Studies, Black Studies, BA in African American
-  Studies, Temple University, Minor in African African Studies
+  Studies, Temple University, Minor in African African Studies, African Diaspora
 permalink: /undergraduate/
 layout: page
 published: true
@@ -13,7 +15,6 @@ sidebar-content: |
    615A Gladfelter Hall  
    [(215) 204-4322](tel:2152044322)  
    [masante@temple.edu](mailto:masante@temple.edu)  
-   
    ___
    
    **Undergraduate Chair:**  
@@ -21,7 +22,6 @@ sidebar-content: |
    826 Gladfelter Hall  
    [(215) 204-8513](tel:2152048513)  
    [anadolu@temple.edu](mailto:anadolu@temple.edu)  
-   
    ___
    
    **Administrator:**  
@@ -41,7 +41,6 @@ meta-description: >-
   Critically examine and interpret the experiences, traditions and dynamics of
   people of African descent
 ---
-
 ### Bachelor of Arts in Africology and African American Studies
 
 The Africology and African American Studies program at Temple University provides undergraduates with the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students who major in African American Studies are guided through scholarly reflection by leaders in the field. 
