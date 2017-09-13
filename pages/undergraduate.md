@@ -66,13 +66,18 @@ Our award-winning advising staff helps students take full advantage of the Colle
 
 Temple University’s tuition rates vary by school or college, student level, residency, and more. Use the student tuition calculator to estimate your tuition rate.
 
-- [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
+[Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Financial Aid and Scholarships
 
 If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Learn more about getting financial aid at the Student Financial Services. 
 
-- [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
+[Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
+
+# Fly in Four
+Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time—or Temple will pay for your remaining course work. And graduating on time means your path to success starts sooner. For its part, Temple provides you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years. 
+
+[Learn More](http://fly.temple.edu/)
 
 ## Undergraduate Admissions to Temple University
 
