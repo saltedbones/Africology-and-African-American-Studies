@@ -42,7 +42,7 @@ meta-description: >-
   people of African descent
 ---
 
-## Bachelor of Arts in Africology and African American Studies
+### Bachelor of Arts in Africology and African American Studies
 
 The Africology and African American Studies program at Temple University provides undergraduates with the opportunity to critically examine and interpret the experiences, traditions and dynamics of people of African descent. Africology, an interdisciplinary discipline, studies the culture of Africans and the African diaspora. Students who major in African American Studies are guided through scholarly reflection by leaders in the field. 
 
@@ -50,13 +50,13 @@ Our curriculum stresses the skills that employers value - critical thinking, per
 
 [Learn More about Majoring in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 
-## Minor in Africology and African American Studies
+### Minor in Africology and African American Studies
 
 Regardless of what your major is, a minor in African American studies adds an interdisciplinary depth to your main course of study. The minor allows students interested in business, the sciences, engineering, government and social services to present an exceptional academic background to prospective employers.
 
 [Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
-## Academic Advising and Professional Development
+### Academic Advising and Professional Development
 
 Our award-winning advising staff helps students take full advantage of the College of Liberal Art's flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities. In addition, we can help you adjust to life on campus and in Philadelphia.
 
@@ -71,7 +71,7 @@ If you need help paying for college, you aren’t alone. Most college students r
 ### Fly in Four
 Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. For our part, we provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years. 
 
-## Temple University Tuition
+### Temple University Tuition
 
 Temple University’s tuition rates vary by school or college, student level, residency, and more. Use the student tuition calculator to estimate your tuition rate.
 
@@ -83,7 +83,7 @@ Temple University’s tuition rates vary by school or college, student level, re
 
 Are you ready to apply? Submit your online application at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
-## Curriculum and Academic Requirements
+### Curriculum and Academic Requirements
 
 - [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 - [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
