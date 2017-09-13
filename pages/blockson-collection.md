@@ -3,11 +3,15 @@ title: Charles L. Blockson Afro-American Collection
 permalink: /blockson-collection/
 layout: page
 published: true
-meta-keywords: Blockson Collection, Charles L. Blockson Afro-American Collection, African American Studies, Temple University library
-meta-description: 'The Blockson Collection at Temple University is one of the most prestigious collections relating to African American history in the United States.'
+meta-keywords: >-
+  Blockson Collection, Charles L. Blockson Afro-American Collection, African
+  American Studies, Temple University library
+meta-description: >-
+  The Blockson Collection at Temple University is one of the most prestigious
+  collections relating to African American history in the United States.
 ---
 
-## Special Collections - African American Studies at Temple University
+### Special Collections - African American Studies at Temple University
 
 > “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it” - Charles L. Blockson
 
@@ -23,13 +27,13 @@ The Blockson Collection includes, but is not limited to:
 - Paul Robeson's sheet music
 - The John W. Mosley Collection, which documents African American life in and around Philadelphia
 
-## Charles L. Blockson
+### Charles L. Blockson
 
 ![charles-blockson-540x400.jpg]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
 
 From his early childhood in nearby Norristown PA, Charles L. Blockson accumulated a stellar collection of rare materials documenting the story of African Americans. The historian and scholar is the author of 13 books, including 2 on the Underground Railroad, which he is an expert on. One of Mr. Blockson’s proudest achievements is getting a state historical marker placed at Penn’s Landing in Philadelphia. Unveiled in August 2016, the marker recognizes Pennsylvania’s role in the slave trade.
 
-## Location and Hours
+### Location and Hours
 
 **Sullivan Hall, 1st Floor <br>
 1330 Polett Walk <br>
