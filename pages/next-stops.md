@@ -49,10 +49,10 @@ Some Job Titles and Careers Available for AAAS Graduates Include:
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts. Temple University’s College of Liberal Arts prepares students to become innovators in all fields, across all industries. We are civic-minded, globally conscious creative thinkers, doers and risk-takers. Home to 28 departments and programs, we offer a solid liberal arts education within a premier urban, research university. 
 
-For a complete list of our academic offerings visit [liberalarts.temple.edu](http://www.liberalarts.temple.edu).
+[View Our Complete List of Academic Offerings](http://www.liberalarts.temple.edu)
 
 ## Study Abroad Programs
-Temple students can study abroad in almost any country around the world through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; When you study abroad, you open yourself up to a world of new perspectives and enhance your academic coursework with real world experiences. Immersing yourself in a new culture equips you to learn how to interact with people from different backgrounds, and to develop a cross-cultural understanding of our globalized modern world.  
+Temple students can study abroad in almost any country through our programs, exchanges and partnerships with organizations around the world. The benefits of studying abroad are immense; When you study abroad, you open yourself up to new perspectives and enhance your academic coursework with real world experiences. Immersing yourself in a new culture equips you with cross-cultural understanding about our globalized modern world. 
 
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
@@ -63,9 +63,9 @@ To know what Temple is really about, you have to experience it firsthand. Our Ma
 
 ## Thinking Of Transferring?
 
-Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student.  If you're thinking about transferring, consider attend a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) information session. Transfer Tuesday is a general information session about the transfer process and an overview of Temple University. 
+Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student.  If you're thinking about transferring, consider attend a [Transfer Tuesday] general information session. 
 
-To learn more about transferring to Temple, please visit [temple.edu/transfer](http://admissions.temple.edu/transfer).
+[Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
