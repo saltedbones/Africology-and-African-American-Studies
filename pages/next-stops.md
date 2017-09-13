@@ -1,16 +1,16 @@
 ---
 title: Next Stops
 meta-description: >-
-  Training in African American Studies provides the foundation and tools needed
-  to guide your personal and professional aspirations.
+ Training in African American Studies provides the foundation and tools needed
+ for success in a cross-cultural and globalized economy.
 meta-keywords: >-
   African American Studies, Black Studies, Jobs for African American Studies
-  majors
+  majors, College of Liberal Arts, Transferring to Temple University, Study Abroad Programs
 permalink: /next-stops/
 layout: page
 published: true
 ---
-Like Temple Owls, AAAS graduates are everywhere. Training in African American Studies provides the foundation and tools needed not only to guide your personal and professional aspirations, but also to ensure success in an increasingly crosscultural and interdependent world. Our graduates work in professional areas that include government, social work, international relations, education, non-profits and in cultural or artistic institutions. Many of our former doctoral students head African American Studies at major universities. Some of our former MA students have received their doctorates in other fields and from different universities and are now professors. 
+Like Temple Owls, AAAS graduates are everywhere. Training in African American Studies provides the foundation and tools needed not only to guide your personal and professional aspirations, but also to ensure success in an increasingly cross-cultural and inter-dependent world. Our graduates work in professional areas that include government, social work, international relations, education, non-profits and in cultural or artistic institutions. Many of our former doctoral students head African American Studies at major universities. Some of our former MA students have received their doctorates in other fields and from different universities and are now professors. 
 
 Africology and African American Studies students develop the following skills that are applicable to many careers:
 - Research skills
@@ -63,7 +63,7 @@ To know what Temple is really about, you have to experience it firsthand. Our Ma
 
 ### Thinking Of Transferring?
 
-Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student.  If you're thinking about transferring, consider attend a [Transfer Tuesday] general information session. 
+Almost half of incoming Temple students transfer from other colleges and universities. If you’ve taken 15 or more college-level credits after high school graduation, you can apply for admission as a transfer student.  If you're thinking about transferring, consider attend a [Transfer Tuesday](http://admissions.temple.edu/visit/transfer-tuesday) general information session. 
 
 [Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
