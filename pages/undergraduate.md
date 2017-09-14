@@ -1,10 +1,8 @@
 ---
 title: Undergraduate
 meta-description: >-
-Earn your BA in African American Studies from Temple University. Study the culture of Africans and the African diaspora by leaders in Black Studies. 
-meta-keywords: >-
-  Major in African American Studies, Black Studies, BA in African American
-  Studies, Temple University, Minor in African African Studies, African Diaspora
+  Earn your BA in African American Studies from Temple University. Study the culture of Africans and the African diaspora by leaders in   Black Studies. 
+meta-keywords: "Major in African American Studies, Black Studies, BA in African American Studies, Temple University, Minor in African African Studies, African Diaspora"
 permalink: /undergraduate/
 layout: page
 published: true
