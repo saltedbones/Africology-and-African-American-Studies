@@ -103,5 +103,6 @@ Are you ready to apply? [Submit your application online](https://prd-wlssb.templ
 [Submit Your Application Online](http://www.temple.edu/grad/admissions/howtoapply.htm)
 
 ### Curriculum and Academic Requirements
-[MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
-[PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+- [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
+- [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
+
