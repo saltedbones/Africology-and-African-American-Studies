@@ -97,4 +97,11 @@ Admission requirements to the MA and PhD programs in Africology and African Amer
 **Application Deadline:**
 Fall Semester: January 15
 
+### Graduate Admissions to Temple University
+Are you ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
+
 [Submit Your Application Online](http://www.temple.edu/grad/admissions/howtoapply.htm)
+
+### Curriculum and Academic Requirements
+[MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
+[PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
