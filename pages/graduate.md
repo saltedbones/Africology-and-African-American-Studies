@@ -2,7 +2,7 @@
 title: Graduate
 meta-description: >-
   Earn your MA or PhD in African American Studies from Temple University. Our faculty edits the prestigious Journal of Black Studies.
-  meta-keywords: 'phd in african american studies, ma in african american studies, graduate program in african american studies, temple graduate school'
+meta-keywords: 'phd in african american studies, ma in african american studies, graduate program in african american studies, temple graduate school'
 permalink: /graduate/
 layout: page
 published: true
