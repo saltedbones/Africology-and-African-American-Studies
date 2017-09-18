@@ -1,10 +1,9 @@
 ---
 title: Resources
-meta-description: >-
+description: >-
   Get help with financial aid, study abroad, and academic resources at the
   department of African American Studies at Temple University.
-meta-keywords: >-
-  temple undergraduate students, temple graduate students, temple financial aid, african american studies scholarships, department of african american studies, study abroad in ghana
+keywords: 'temple undergraduate students, temple graduate students, temple financial aid, african american studies scholarships, department of african american studies, study abroad in ghana'
 permalink: /resources/
 layout: page
 published: true
