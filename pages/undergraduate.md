@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
 meta-description: >-
-  Earn your BA in African American Studies from Temple University. Study the culture of Africans and the African diaspora by leaders in   Black Studies.
+  Critically examine and interpret the experiences, traditions and dynamics of
+  people of African descent
 meta-keywords: "Major in African American Studies, Black Studies, BA in African American Studies, Temple University, Minor in African African Studies, African Diaspora"
 permalink: /undergraduate/
 layout: page
@@ -35,9 +36,6 @@ sidebar-content: |
    808 Gladfelter Hall    
    [(215) 204-8491](tel:2152048491)   
    [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
-meta-description: >-
-  Critically examine and interpret the experiences, traditions and dynamics of
-  people of African descent
 ---
 ### Bachelor of Arts in Africology and African American Studies
 
