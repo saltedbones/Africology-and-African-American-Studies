@@ -48,19 +48,16 @@ Our curriculum stresses the skills that employers value - critical thinking, per
 [Learn More about Majoring in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 
 ### Minor in Africology and African American Studies
-
 Regardless of what your major is, a minor in African American studies adds an interdisciplinary depth to your main course of study. The minor allows students interested in business, the sciences, engineering, government and social services to present an exceptional academic background to prospective employers.
 
 [Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
 ### Academic Advising and Professional Development
-
 Our award-winning advising staff helps students take full advantage of the College of Liberal Art's flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure tey have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opporunities. In addition, we can help you adjust to life on campus and in Philadelphia.
 
 [Learn More](https://liberalarts.temple.edu/advising)
 
 ### Financial Aid and Scholarships
-
 If you need help paying for college, you aren’t alone. Most college students receive some form of financial aid to fund their education. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. Learn more about getting financial aid at the Student Financial Services. 
 
 [Financial Aid and Scholarships at Temple](https://sfs.temple.edu/financial-aid-types)
