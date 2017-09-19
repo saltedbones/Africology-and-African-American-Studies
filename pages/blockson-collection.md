@@ -27,7 +27,7 @@ The Blockson Collection includes, but is not limited to
 
 ### Charles L. Blockson
 
-![charles-blockson-540x400.jpg]({{site.baseurl}}/media/charles-blockson-540x400.jpg)
+![charles-blockson.jpg]({{site.baseurl}}/media/charles-blockson.jpg)
 
 From his early childhood in nearby Norristown, Pennsylvania, Charles L. Blockson accumulated a stellar collection of rare materials documenting the story of African Americans. The historian and scholar is the author of 13 books, including two on the Underground Railroad, on which he is an expert. One of Blockson’s proudest achievements is getting a state historical marker placed at Penn’s Landing in Philadelphia. Unveiled in August 2016, the marker recognizes Pennsylvania’s role in the slave trade.
 
