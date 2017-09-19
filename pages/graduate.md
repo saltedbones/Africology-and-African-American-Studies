@@ -85,7 +85,7 @@ At Temple, we believe that students from all walks of life should have access to
 ### Admissions Process
 Admission requirements to the MA and PhD programs in Africology and African American Studies follow the general requirements established by Temple University. The deadline for the MA and PhD program is the same.
 
-**Application Deadline:**: Fall Semester: Jan. 15
+**Application Deadline:** Fall Semester: Jan. 15
 
 ### Graduate Admissions to Temple University
 Are you ready to apply? 
