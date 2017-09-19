@@ -5,7 +5,9 @@ description: >-
   We attract and produce world-class scholars in Black Studies. Our African
   American Studies courses emphasize  literature, history, art and social
   science.
-keywords: 'African American Studies, Black Studies, Temple University, Journal of Black Studies'
+keywords: >-
+  African American Studies, Black Studies, Temple University, Journal of Black
+  Studies
 layout: home
 published: true
 feature: true
@@ -18,7 +20,7 @@ feature-body: >-
   Williams, Class of '14
 ---
 ### African American Studies at Temple
-We attract and produce world-class scholars in Black Studies, and have more African American students than any other university in the Northeast. Our faculty edits the Journal of Black Studies, the top peer-reviewed publication in our academic discipline. African American Studies is interdisciplinary, and our courses emphasize a variety of subjects including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live—whether they are from North America, the Caribbean, Europe, South America or Africa. Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency.
+We attract and produce world-class scholars in Black Studies, and have more African American students than any other university in the Northeast. Our faculty edits the _Journal of Black Studies_, the top peer-reviewed publication in our academic discipline. African American Studies is interdisciplinary, and our courses emphasize a variety of subjects including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live—whether they are from North America, the Caribbean, Europe, South America or Africa. Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency.
 
 ### First in Our Field
 Become a part of an energetic group of scholars who seek to continue what began more than 40 years ago. Our Africology and African American Studies department is one of the oldest of similar programs in the nation, and we were the first to offer a doctoral program in our field. It emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year.
