@@ -38,7 +38,6 @@ When you are ready to apply, submit your application online at [admissions.templ
   <div class="col m12 l4">{% include cards/card-basic.html
     title="Study In Ghana"
     content="Based at the University of Ghana in Accra, our study abroad in Ghana is an incredible way to enhance your Africology and African American Studies program. Investigate West African civilization through first-hand experience."
-    image=""
     button-link="https://studyabroad.temple.edu/sites/temple-summer-in-ghana"
     button-text="Learn More" %}
   </div>
@@ -46,7 +45,6 @@ When you are ready to apply, submit your application online at [admissions.templ
     <div class="col m12 l4">{% include cards/card-basic.html
       title="Learn from Top Faculty"
       content="We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation."
-      image=""
       button-link="/africology-and-african-american-studies/faculty/"
       button-text="Learn More" %}
     </div>
@@ -54,7 +52,6 @@ When you are ready to apply, submit your application online at [admissions.templ
       <div class="col m12 l4">{% include cards/card-basic.html
         title="The Blockson Collection"
         content="The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience dating from 1581 to the present."
-        image=""
         button-link="http://www.temple.edu/provost/careercenter/"
         button-text="Learn More" %}
       </div>
