@@ -1,5 +1,6 @@
 ---
 title: Resources
+permalink: /resources/
 description: >-
   Get help with financial aid, study abroad, and academic resources at the
   department of African American Studies at Temple University.
@@ -7,11 +8,10 @@ keywords: >-
   temple undergraduate students, temple graduate students, temple financial aid,
   african american studies scholarships, department of african american studies,
   study abroad in ghana
-permalink: /resources/
 layout: page
 published: true
 ---
-## Department of Africology and African Studies Resources
+## African American Studies Resources
 
 ### Charles L. Blockson Collection
 The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global black experience. Dating from 1581 to the present, the extensive catalog is the first of its kind published by a major university. Mr. Blockson chose Temple University for his collection because of our diverse student body and our location in the heart of the African American community in North Philadelphia. 
