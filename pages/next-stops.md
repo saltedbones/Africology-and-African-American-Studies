@@ -4,10 +4,8 @@ permalink: /next-stops/
 description: >-
   Training in African American Studies provides the foundation and tools needed
   for success in a cross-cultural and globalized economy.
-keywords: >-
-  African American Studies, Black Studies, Jobs for African American Studies
-  majors, College of Liberal Arts, Transferring to Temple University, Study
-  Abroad Programs
+keywords: 'African American Studies, Black Studies, Jobs for African American Studies
+  majors, College of Liberal Arts, Transferring to Temple University, Study Abroad Programs'
 layout: page
 published: true
 ---
