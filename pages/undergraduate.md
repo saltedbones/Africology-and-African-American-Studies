@@ -1,12 +1,10 @@
 ---
 title: Undergraduate
+permalink: /undergraduate/
 description: >-
   Critically examine and interpret the experiences, traditions and dynamics of
-  people of African descent
-keywords: >-
-  Major in African American Studies, Black Studies, BA in African American
-  Studies, Temple University, Minor in African African Studies, African Diaspora
-permalink: /undergraduate/
+  people of African descent.
+keywords: 'Major in African American Studies, Black Studies, BA in African American Studies, Temple University, Minor in African African Studies, African Diaspora'
 layout: page
 published: true
 sidebar: true
