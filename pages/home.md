@@ -17,7 +17,7 @@ feature-body: >-
   I was able to reach out to any of the professors and  students in my
   department for guidance and help. Each professor encouraged me to dare to be
   different and encouraged me to excel regardless of circumstances. - NeShae
-  Williams, Class of '14
+  Williams '14
 ---
 ### African American Studies at Temple
 We attract and produce world-class scholars in Black Studies, and have more African American students than any other university in the Northeast. Our faculty edits the _Journal of Black Studies_, the top peer-reviewed publication in our academic discipline. African American Studies is interdisciplinary, and our courses emphasize a variety of subjects including literature, history, art and social science. We are global and comparative, and we study people of African descent wherever they live—whether they are from North America, the Caribbean, Europe, South America or Africa. Our courses and programs are Afrocentric, meaning that we explore academic topics from the standpoint of African agency.
