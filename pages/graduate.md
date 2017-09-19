@@ -62,7 +62,7 @@ The MA in African American Studies is designed to teach students about fundament
 ### Academic Advising
 As a student working toward your MA or PhD, you'll be guided toward a concentration based on your interests and the available resources at the department.
 
-Possible concentrations include:
+Possible concentrations include
 
 - African and African American History
 - African and African American Literature
