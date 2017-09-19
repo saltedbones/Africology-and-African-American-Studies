@@ -3,7 +3,10 @@ title: Resources
 description: >-
   Get help with financial aid, study abroad, and academic resources at the
   department of African American Studies at Temple University.
-keywords: 'temple undergraduate students, temple graduate students, temple financial aid, african american studies scholarships, department of african american studies, study abroad in ghana'
+keywords: >-
+  temple undergraduate students, temple graduate students, temple financial aid,
+  african american studies scholarships, department of african american studies,
+  study abroad in ghana
 permalink: /resources/
 layout: page
 published: true
@@ -11,30 +14,29 @@ published: true
 ## Department of Africology and African Studies Resources
 
 ### Charles L. Blockson Collection
-The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience. Dating from 1581 to the present, the extensive catalog is the first of its kind published by a major university. Mr. Blockson chose Temple University to house his collection because of our diverse student body and our location in the heart of the African American community in North Philadelphia.
+The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global black experience. Dating from 1581 to the present, the extensive catalog is the first of its kind published by a major university. Mr. Blockson chose Temple University for his collection because of our diverse student body and our location in the heart of the African American community in North Philadelphia. 
 
 ### Study Abroad in Ghana
-If you join our department, taking advantage of our [study abroad in Ghana program](https://studyabroad.temple.edu/sites/temple-summer-in-ghana) is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of Ghana's capital, all while adding depth to your Africology and African American Studies research.
+If you join our department, taking advantage of our [study abroad in Ghana program](https://studyabroad.temple.edu/sites/temple-summer-in-ghana) is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of the nation's capital while adding depth to your Africology and African American Studies research.
 
 ### Journal of Black Studies
-Our department is the home to the Journal of Black Studies, the most prestigious in the discipline of African American Studies. A leading source for innovative and creative research on the Black experience, the journal is published six times a year. Africology and African American Studies Students can work with the journal alongside our distinguished faculty members.
+Our department is the home to the _Journal of Black Studies_, the most prestigious publication in the discipline of African American Studies. A leading source for innovative and creative research on the black experience, the journal is published six times per year. Africology and African American Studies Students can work with the journal under the guidance of our distinguished faculty. 
 
 ### The Encyclopedia of Black Studies
-Two of Temple’s faculty members, Molefi Kete Asante and Ama Mazama, edited the Encyclopedia of Black Studies. The encyclopedia is the leading reference source for dynamic and innovative research on the Black experience. The concept for the encyclopedia was developed from the successful Journal of Black Studies and contains a full analysis of the economic, political, sociological, historical, literary and philosophical issues related to Americans of African descent.
+Two of Temple’s faculty members, Molefi Kete Asante and Ama Mazama, edited the Encyclopedia of Black Studies. It is the leading reference source for dynamic and innovative research on the black experience. The concept for the encyclopedia was developed from the successful _Journal of Black Studies_ and contains a full analysis of the economic, political, sociological, historical, literary and philosophical issues related to Americans of African descent.
 
 ### National Council on Black Studies
-The department of Africology and African American Studies is accredited by the National Council on Black  Studies (NCBS). NCBS was established in 1975 by African American scholars who recognized the need to formalize the study of the African world experience, as well as expand and strengthen academic units and community programs devoted to this endeavor. NCBS holds an annual conference and publishes the International Journal of African Studies.
+The department of Africology and African American Studies is accredited by the National Council on Black  Studies (NCBS). NCBS was established in 1975 by African American scholars who recognized the need to formalize the study of the African world experience, as well as expand and strengthen academic units and community programs devoted to that endeavor. NCBS holds an annual conference and publishes the _International Journal of African Studies_. 
 
 ### Department Scholarships
-
 A limited number of [assistantships](http://www.temple.edu/grad/finances/) are available for graduate students with outstanding academic records. Assistantships involve teaching; teaching assistants receive a stipend and full tuition remission up to 9 credits. African American Studies students (undergraduate and graduate) with outstanding academic records are eligible for other awards and scholarships.
 
-- **Frances Ellen Watkins Harper Award:** This award is given to the undergraduate or graduate student in African American Studies who best represents our department’s commitment to community and public action. The recipient of this award demonstrates excellent work in the urban community assisting low-income children achieve their highest goals.
-- **James L. Conyers Award:** This award is given to three students whose academic papers have been accepted for presentation at national or international conferences in the discipline.
+- **Frances Ellen Watkins Harper Award:** This award is given to the undergraduate or graduate African American Studies student who best represents our department’s commitment to community and public action. The recipient of this award demonstrates excellent work in the urban community assisting low-income children achieve their highest goals. 
+- **James L. Conyers Award:** This award is given to three students whose academic papers have been accepted for presentation at national or international conferences.
 - **Adeniyi Coker Award:** Dr. Adeniyi Coker, the first student to graduate with a PhD from our department, is an accomplished author, professor and distinguished Black Studies scholar. The student who receives this award demonstrates Pan African ideals in work and expression.
-- **Molefi Kete Asante Award:** The Molefi Kete Asante Award, given in the name of our Department Chair, recognizes outstanding intellectual originality and boldness. The prize is given to a second or third year graduate student who best represents Afrocentric scholarship.
+- **Molefi Kete Asante Award:** The Molefi Kete Asante Award, named after the department chair, recognizes outstanding intellectual originality and boldness. The prize is given to a second-or-third-year graduate student who best represents Afrocentric scholarship.
 - **Octavio Cato Award:** The Cato Award is named for the famed African American leader in Philadelphia who best articulated the goals and objectives of the African American community in the 19th century. Our department strives to serve the interests of the surrounding community, and so we recognize the student who demonstrates a profound dedication to political, social and economic innovation.
-- **Stephen Couvillion Scholarship:** Named in the honor of a former graduate student this award is made to the Masters student who shows unusual initiative and direction in research and scholarship. Given to the student that has best satisfied the demands of the award the Couvillion Award represents one of the highest awards given in the department.
+- **Stephen Couvillion Scholarship:** Named in the honor of a former graduate student this award is made to the master’s student who shows unusual initiative and direction in research and scholarship. Given to the student that has best satisfied the demands of the award, the Couvillion Award represents one of the highest awards given in the department.
 
 ### Undergraduate Resources
 - [The Center for Academic Advising and Professional Development](https://liberalarts.temple.edu/advising)
