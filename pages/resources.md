@@ -13,9 +13,6 @@ published: true
 ---
 ## African American Studies Resources
 
-### Charles L. Blockson Collection
-The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global black experience. Dating from 1581 to the present, the extensive catalog is the first of its kind published by a major university. Mr. Blockson chose Temple University for his collection because of our diverse student body and our location in the heart of the African American community in North Philadelphia. 
-
 ### Study Abroad in Ghana
 If you join our department, taking advantage of our [study abroad in Ghana program](https://studyabroad.temple.edu/sites/temple-summer-in-ghana) is an incredible way to enhance your Temple education. Investigate the historical, literary, cultural and linguistic aspects of West African civilization at the University of Ghana in Accra. Experience the warm culture and booming music scene of the nation's capital while adding depth to your Africology and African American Studies research.
 
@@ -27,6 +24,9 @@ Two of Temple’s faculty members, Molefi Kete Asante and Ama Mazama, edited the
 
 ### National Council on Black Studies
 The department of Africology and African American Studies is accredited by the National Council on Black  Studies (NCBS). NCBS was established in 1975 by African American scholars who recognized the need to formalize the study of the African world experience, as well as expand and strengthen academic units and community programs devoted to that endeavor. NCBS holds an annual conference and publishes the _International Journal of African Studies_. 
+
+### Charles L. Blockson Collection
+The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global black experience. Dating from 1581 to the present, the extensive catalog is the first of its kind published by a major university. Mr. Blockson chose Temple University for his collection because of our diverse student body and our location in the heart of the African American community in North Philadelphia. 
 
 ### Department Scholarships
 A limited number of [assistantships](http://www.temple.edu/grad/finances/) are available for graduate students with outstanding academic records. Assistantships involve teaching; teaching assistants receive a stipend and full tuition remission up to 9 credits. African American Studies students (undergraduate and graduate) with outstanding academic records are eligible for other awards and scholarships.
