@@ -1,8 +1,11 @@
 ---
 title: Graduate
 description: >-
-  Earn your MA or PhD in African American Studies from Temple University. Our faculty edits the prestigious Journal of Black Studies.
-keywords: 'phd in african american studies, ma in african american studies, graduate program in african american studies, temple graduate school'
+  Earn your MA or PhD in African American Studies from Temple University. Our
+  faculty edits the prestigious Journal of Black Studies.
+keywords: >-
+  phd in african american studies, ma in african american studies, graduate
+  program in african american studies, temple graduate school
 permalink: /graduate/
 layout: page
 published: true
@@ -39,29 +42,24 @@ sidebar-content: |
    [Tammey.Abner@temple.edu](mailto:Tammey.Abner@temple.edu)
 ---
 ### Earn an MA or PhD in African American Studies
-
-The Department of Africology and African American Studies provides graduate and doctoral level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent. We are well-known for our innovation, energy and influence in Black studies; Temple’s professors have published more books than any other department of African American studies in the nation. Our graduates lead more programs in African American studies than any other similar program.
+The Department of Africology and African American Studies provides graduate and doctoral-level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent. We are well-known for our innovation, energy and influence in Black studies; Temple’s professors have published more books than any other department of African American Studies faculty in the nation. Our graduates lead more programs in African American studies than any other similar program.
 
 ### Get Involved in the Black Studies Academic Community
-
-Our faculty edits the top journal in our discipline, the Journal of Black Studies. We also participate in all the significant associations in our discipline, including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the Journal of Black Studies and participate in African American studies conferences alongside us.
+Our faculty edits the top journal in our discipline, the _Journal of Black Studies_. We also participate in all the significant associations in our discipline, including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the _Journal of Black Studies_ and participate in African American Studies conferences with us. 
 
 [Learn More About Our Academic Resources](https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
 
 ### PhD in African American Studies
-
-Temple was the first university to offer a PhD program in African American Studies. Our program reflects a deep commitment to the Afrocentric, or self-directed, exploration of acedemic experiences. It is the goal of the department that graduates of our PhD program are prepared to engage in a diverse range of intellectual issues that affect the lives of Africans on the continent and in the diaspora. Our students are prepared for university teaching and scholarly research; Our graduates have excellent employment track records in major universities nationwide.
+Temple was the first university to offer a PhD program in African American Studies. Our program reflects a deep commitment to the Afrocentric, or self-directed, exploration of academic experiences. It is the goal of the department that graduates of our PhD program are prepared to engage in a diverse range of intellectual issues that affect the lives of Africans on the continent and in the diaspora. Our students are prepared for university teaching and scholarly research; our graduates have excellent employment track records in major universities nationwide.
 
 [Learn More about the PhD in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
 ### MA in African American Studies
-
 The MA in African American Studies is designed to teach students about fundamental theoretical and practical issues confronting African people trans-continentally and trans-generationally. The MA program seeks to answer the personal and intellectual aspirations of students that are not satisfied by a BA degree in African American Studies. An MA in African American Studies often serves as a basis for a PhD in the discipline or in an affiliated field.
 
 [Learn More about the MA in African American Studies Program](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
 
 ### Academic Advising
-
 As a student working toward your MA or PhD, you'll be guided toward a concentration based on your interests and the available resources at the department.
 
 Possible concentrations include:
@@ -79,20 +77,17 @@ Possible concentrations include:
 - Gender, Sexuality and Women's Studies
 
 ### Financial Aid and Scholarships for Graduate School
+Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University use to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance. 
 
-Graduate students are eligible for financial assistance from federal, state, private and Temple University sources. The FAFSA, or Free Application for Federal Student Aid, is the primary form that the government, states and Temple University uses to award grants, scholarships, work study and student loans. Filling out the FAFSA often results in a substantial boost in financial assistance.
-
-Our department also offers a limited number of assistantships and merit-based scholarships for graduate students on a highly competitive basis. An assistantship provides some or all of the funding needed for grad school while you are working for Temple University in some capacity. Merit-based scholarships are awarded to students with exceptional achievements relating to African American Studies.
+Our department also offers a limited number of highly competitive assistantships and merit-based scholarships for graduate students. An assistantship provides some or all of the funding needed for grad school while you are working for Temple University in some capacity. Merit-based scholarships are awarded to students with exceptional achievements related to African American Studies. 
 
 - [Learn More About Paying for Graduate School at Temple](http://www.temple.edu/grad/finances/)
-- [Department of Africology and African American Studies Scholarships](https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
+- [Explore Department of Africology and African American Studies Scholarships] (https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
 
 ### Admissions Process
+Admission requirements to the MA and PhD programs in Africology and African American Studies follow the general requirements established by Temple University. The deadline for the MA and PhD program is the same.
 
-Admission requirements to the MA and PhD programs in Africology and African American Studies follows the general requirements established by Temple University. The deadline for the MA and PhD program is the same.
-
-**Application Deadline:**
-Fall Semester: January 15
+**Application Deadline:**: Fall Semester: Jan. 15
 
 ### Graduate Admissions to Temple University
 Are you ready to apply? [Submit your application online](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).
