@@ -35,21 +35,21 @@ Become a part of an energetic group of scholars who seek to continue what began 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card-basic.html
+  <div class="col m12 l4">{% include cards/card2-basic.html
     title="Study In Ghana"
     content="Based at the University of Ghana in Accra, our study abroad in Ghana is an incredible way to enhance your Africology and African American Studies program. Investigate West African civilization through first-hand experience."
     button-link="https://studyabroad.temple.edu/sites/temple-summer-in-ghana"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card-basic.html
+    <div class="col m12 l4">{% include cards/card2-basic.html
       title="Learn from Top Faculty"
       content="We are known for our innovation, energy and influence in Black Studies, and our professors have published more books than any other Department of African American Studies in the nation."
       button-link="/africology-and-african-american-studies/faculty/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card-basic.html
+      <div class="col m12 l4">{% include cards/card2-basic.html
         title="The Blockson Collection"
         content="The Charles L. Blockson Afro-American Collection at Temple University houses over 500,000 items on the global Black experience dating from 1581 to the present."
         button-link="http://www.temple.edu/provost/careercenter/"
