@@ -46,7 +46,7 @@ Temple students can study abroad in almost any country through our programs, exc
 [Learn More about Studying Abroad](https://studyabroad.temple.edu/)
 
 ## Visit Us!
-To know what Temple is really about, you have to experience it firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture. And the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
+Experience Temple University firsthand. Our Main Campus in Philadelphia is an energetic community of students, faculty and local culture and the opportunities don’t stop there. For Temple students, Philadelphia is a place to learn and branch out. Undergraduate Admissions offers tours daily. If you would like to experience the College of Liberal Arts in person, get in touch with us.
 
 [Learn More](http://admissions.temple.edu/visit)
 
@@ -56,7 +56,7 @@ Almost half of incoming Temple students transfer from other colleges and univers
 [Learn More about Transferring to Temple](http://admissions.temple.edu/apply/transfer-applicant)
 
 ## Apply
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+Are you ready to apply? [Submit your application online.](http://admissions.temple.edu/apply).
 
 ### Deadlines
 - **February 1**: Freshman Application Deadline for Fall Semester
