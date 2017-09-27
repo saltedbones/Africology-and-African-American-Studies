@@ -40,6 +40,7 @@ A limited number of [assistantships](http://www.temple.edu/grad/finances/) are a
 - [Undergraduate Policies and Procedures](http://bulletin.temple.edu/undergraduate/academic-policies/)
 
 ### Graduate Resources
+- [Graduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/AAAS%20Grad%20Handbook%202017.pdf)
 - [Graduate School Forms](http://www.temple.edu/grad/forms/index.htm)
 - [Graduate School Funding](http://www.temple.edu/grad/finances/index.htm)
 - [Graduate School Policies](http://www.temple.edu/grad/policies/index.htm)
