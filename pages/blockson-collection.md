@@ -15,7 +15,7 @@ published: true
 
 > “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it” - Charles L. Blockson
 
-![The Charles L. Blockson Collection at Temple University is one of the largest collections of items related to Black history in America. ]({{site.baseurl}}/media/blockson_collection.jpg)
+![Charles Blockson is a historian, curator and author specializing in the Underground Railroad.]({{site.baseurl}}/media/charles-blockson.jpg)
 
 Founded by Charles Blockson, the Charles L. Blockson Afro-American Collection at Temple is one of the most prestigious collections of African American artifacts in the U.S. The collection houses over 500,000 items relating to the global black experience. Located in Sullivan Hall, the extensive catalog dates from 1581 to the present. African American Studies students are provided with an excellent opportunity to enhance their academic research by making use of the collection. Blockson donated his collection to Temple in 1984 because of our diverse student body and our location in the heart of the African American community in North Philadelphia.
 
@@ -28,8 +28,6 @@ The Blockson Collection includes, but is not limited to
 - The John W. Mosley Collection, which documents African American life in and around Philadelphia
 
 ### Charles L. Blockson
-
-![charles-blockson.jpg]({{site.baseurl}}/media/charles-blockson.jpg)
 
 From his early childhood in nearby Norristown, Pennsylvania, Charles L. Blockson accumulated a stellar collection of rare materials documenting the story of African Americans. The historian and scholar is the author of 13 books, including two on the Underground Railroad, on which he is an expert. One of Blockson’s proudest achievements is getting a state historical marker placed at Penn’s Landing in Philadelphia. Unveiled in August 2016, the marker recognizes Pennsylvania’s role in the slave trade.
 
