@@ -22,7 +22,7 @@ We attract and produce world-class scholars in Black Studies, and have more Afri
 ## First in Our Field
 Become a part of an energetic group of scholars who seek to continue what began more than 40 years ago. Our Africology and African American Studies department is one of the oldest of similar programs in the nation, and we were the first to offer a doctoral program in our field. It emerged during the Black Power movement, when black students demanded a Black Studies department to combat racism, discrimination and oppression. As a result, the Afro-Asian Institute was created in 1971, and the Pan African Studies Department was established the following year.
 
-### Academic Offerings
+## Academic Offerings
 - [BA in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/ba-africology-african-american-studies/)
 - [Minor in Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 - [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
