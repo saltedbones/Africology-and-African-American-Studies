@@ -4,7 +4,9 @@ permalink: /undergraduate/
 description: >-
   Critically examine and interpret the experiences, traditions and dynamics of
   people of African descent.
-keywords: 'Major in African American Studies, Black Studies, BA in African American Studies, Temple University, Minor in African African Studies, African Diaspora'
+keywords: >-
+  Major in African American Studies, Black Studies, BA in African American
+  Studies, Temple University, Minor in African African Studies, African Diaspora
 layout: page
 published: true
 sidebar: true
@@ -50,7 +52,7 @@ Regardless of what your major is, a minor in African American studies adds an in
 [Learn More about Minoring in Africology and Africology and African American Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/africology-african-american-studies/minor-africology-african-american-studies/)
 
 ## Academic Advising and Professional Development
-Our award-winning advising staff helps students take full advantage of the College of Liberal Arts’ flexible curriculum by assisting them in developing personalized academic plans that ensure timely graduation. We also work closely with our students to ensure they have a rich experience beyond the classroom, complementing academic work with study abroad programs, internships and experiential learning opportunities. 
+Take full advantage of the College of Liberal Arts’ flexible curriculum with the help of our award-winning advisors. We will help you select a major or minor, and graduate on time. Beyond academics, our advisors ensure that you have a rich experience at Temple by complementing your academic work with study abroad programs, internships and other experiential learning opportunities.
 
 [Learn More](https://liberalarts.temple.edu/advising)
 
@@ -60,7 +62,7 @@ If you need help paying for college, you aren’t alone. Most college students r
 [Student Financial Services](https://sfs.temple.edu/financial-aid-types)
 
 ## Fly in Four
-Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. For our part, we provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
+Take charge of your future and limit your debt. The Fly in 4 partnership allows you to complete your degree on time — or Temple will pay for your remaining course work. Graduating on time means your path to success starts sooner. We provide you with the resources you need to graduate in four years, like academic advising and classes offered when you need them. You commit to doing what it takes to blaze your career path in four years.
 
 [Learn How to Fly in Four](http://fly.temple.edu/)
 
@@ -70,7 +72,7 @@ Temple University’s tuition rates vary by school or college, student level, re
 [Temple Tuition Calculator](https://bursar.temple.edu/tuition-and-fees/tuition-rates)
 
 ## Undergraduate Admissions to Temple University
-Are you ready to apply? Submit your online application at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+Are you ready to apply? Submit your [application online](http://admissions.temple.edu/apply).
 
 ### Curriculum and Academic Requirements
 
