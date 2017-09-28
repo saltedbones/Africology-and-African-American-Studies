@@ -28,7 +28,7 @@ Become a part of an energetic group of scholars who seek to continue what began 
 - [MA in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-ma/)
 - [PhD in Africology and African American Studies](http://bulletin.temple.edu/graduate/scd/cla/africology-african-american-studies-phd/)
 
-### Apply
+## Apply
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
