@@ -13,8 +13,7 @@ published: true
 
 > “My main goal in life is to build a good library of Black history - knowledge is a form of Black power and this is my part in it” - Charles L. Blockson
 
-![Charles Blockson is a historian, curator and author specializing in the Underground Railroad.]({{site.baseurl}}/media/charles-blockson.jpg)
-{:.img-right}
+![Charles Blockson is a historian, curator and author specializing in the Underground Railroad.]({{site.baseurl}}/media/charles-blockson.jpg){:.img-right}
 
 Founded by Charles Blockson, the Charles L. Blockson Afro-American Collection at Temple is one of the most prestigious collections of African American artifacts in the U.S. The collection houses over 500,000 items relating to the global black experience. Located in Sullivan Hall, the extensive catalog dates from 1581 to the present. African American Studies students are provided with an excellent opportunity to enhance their academic research by making use of the collection. Blockson donated his collection to Temple in 1984 because of our diverse student body and our location in the heart of the African American community in North Philadelphia.
 
