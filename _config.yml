@@ -66,8 +66,7 @@ google_tag_manager: GTM-58ZL5B
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 faculty-feed: https://liberalarts.temple.edu/profiles/africology-and-african-american-studies/csv
 news-feed: https://liberalarts.temple.edu/news/africology-and-african-american-studies/csv
-articles-feed:
-https://liberalarts.temple.edu/articles/africology-and-african-american-studies/csv
+articles-feed: https://liberalarts.temple.edu/articles/africology-and-african-american-studies/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/africology-and-african-american-studies/csv
 events-feed: https://liberalarts.temple.edu/events/africology-and-african-american-studies/csv
 
