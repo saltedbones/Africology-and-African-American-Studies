@@ -26,7 +26,6 @@ The Blockson Collection includes, but is not limited to
 - The John W. Mosley Collection, which documents African American life in and around Philadelphia
 
 ### Charles L. Blockson
-
 From his early childhood in nearby Norristown, Pennsylvania, Charles L. Blockson accumulated a stellar collection of rare materials documenting the story of African Americans. The historian and scholar is the author of 13 books, including two on the Underground Railroad, on which he is an expert. One of Blockson’s proudest achievements is getting a state historical marker placed at Penn’s Landing in Philadelphia. Unveiled in August 2016, the marker recognizes Pennsylvania’s role in the slave trade.
 
 [Learn More about the Blockson Collection](http://library.temple.edu/collections/blockson/)
