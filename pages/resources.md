@@ -2,12 +2,9 @@
 title: Resources
 permalink: /resources/
 description: >-
-  Get help with financial aid, study abroad and academic resources at the
-  Department of African American Studies at Temple University.
+  Get help with financial aid, study abroad and academic resources at Temple University's Department of African American Studies.
 keywords: >-
-  temple undergraduate students, temple graduate students, temple financial aid,
-  african american studies scholarships, department of african american studies,
-  study abroad in ghana
+  African American Studies Scholarships, Department of African American Studies, Study Abroad in Ghana, Journal of Black Studies
 layout: page
 published: true
 ---
