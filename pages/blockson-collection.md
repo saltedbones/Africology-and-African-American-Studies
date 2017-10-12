@@ -4,8 +4,7 @@ permalink: /blockson-collection/
 layout: page
 keywords: 'Blockson Collection, Charles L. Blockson Afro-American Collection, African American Studies, Temple University library'
 description: >-
-  The Blockson Collection at Temple University is one of the most prestigious
-  collections relating to African American history in the United States.
+  The Blockson Collection at Temple University is one of the most prestigious collections relating to African American history in the United States.
 published: true
 ---
 
