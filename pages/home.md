@@ -2,8 +2,7 @@
 title: home
 permalink: /
 description: >-
-  We attract and produce world-class scholars in Black Studies. Our African
-  American Studies courses emphasize literature, history, art and social science.
+  We attract and produce world-class scholars in Black Studies. Our African American Studies courses emphasize literature, history, art and social science.
 keywords: 'African American Studies, Black Studies, Temple University, Journal of Black Studies'
 layout: home
 published: true
