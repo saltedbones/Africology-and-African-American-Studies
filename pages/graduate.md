@@ -2,11 +2,9 @@
 title: Graduate
 permalink: /graduate/
 description: >-
-  Earn your MA or PhD in African American Studies from Temple University. Our
-  faculty edits the prestigious Journal of Black Studies.
+  Earn your MA or PhD in African American Studies from Temple University. Our faculty edits the prestigious Journal of Black Studies.
 keywords: >-
-  phd in african american studies, ma in african american studies, graduate
-  program in african american studies, temple graduate school
+  phd in african american studies, ma in african american studies, graduate program in african american studies, temple graduate school
 layout: page
 published: true
 sidebar: true
@@ -16,23 +14,23 @@ sidebar-content: |
    615A Gladfelter Hall  
    [(215) 204-4322](tel:2152044322)  
    [masante@temple.edu](mailto:masante@temple.edu)  
-   
+
    ___
-   
+
    **Graduate Chair:**  
    Dr. Ama Mazama  
    817 Gladfelter Hall  
    [(215) 204-1992](tel:2152041992)  
    [marie-josee.cerol@temple.edu](mailto:marie-josee.cerol@temple.edu)  
-   
+
    ___
-   
+
    **Administrator:**  
    Belinda Wilson  
    821 Ritter Annex   
    [(215) 204-0472](tel:2152040472)  
    [bwilson@temple.edu](mailto:bwilson@temple.edu)  
-   
+
    ___
 
    **Coordinator:**  
@@ -45,7 +43,7 @@ sidebar-content: |
 The Department of Africology and African American Studies provides graduate and doctoral-level students with an Afrocentric study of the history, culture, art, politics and economics of Africans, African Americans and people of African descent. We are well-known for our innovation, energy and influence in Black studies; Temple’s professors have published more books than any other department of African American Studies faculty in the nation. Our graduates lead more programs in African American studies than any other similar program.
 
 ## Get Involved in the Black Studies Academic Community
-Our faculty edits the top journal in our discipline, the _Journal of Black Studies_. We also participate in all the significant associations in our discipline, including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the _Journal of Black Studies_ and participate in African American Studies conferences with us. 
+Our faculty edits the top journal in our discipline, the _Journal of Black Studies_. We also participate in all the significant associations in our discipline, including the National Council for Black Studies and Afrocentricity International. We encourage our students to collaborate with faculty in research, conferences, field trips and joint writing projects. If you join our program, you'll have the opportunity to contribute to the _Journal of Black Studies_ and participate in African American Studies conferences with us.
 
 [Learn More About Our Academic Resources](https://develop.cla.temple.edu/africology-and-african-american-studies/resources/)
 
