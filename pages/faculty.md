@@ -5,7 +5,7 @@ layout: faculty2
 <<<<<<< HEAD
 description: >-
   African American Studies faculty at Temple University edit the prestigious *Journal of Black Studies*. We are known for our innovation, energy and influence.
-keywords: 'temple faculty, department of africology and african american studies, african american studies temple, african american studies phd'
+keywords: 'Department of Africology and African American Studies, African American Studies Temple, Journal of Black Studies'
 published: true
 ---
 African American studies faculty at Temple University edit the prestigious *Journal of Black Studies*. We are known for our innovation, energy and influence in the discipline.
